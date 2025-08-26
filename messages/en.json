@@ -1,0 +1,1783 @@
+{
+  "homePage": {
+    "hero": {
+        "title1": "Discover the Power of ",
+        "title2": "Digital Marketing Services.",
+      "subtitle": "Boost online presence and reach with our professional digital marketing services. Our customized strategies align with your business goals and showcase a unique brand voice. Let us help grow your customer base and succeed.",
+      "buttonText": "Get Started"
+    },
+    "boxSection": {
+      "title": "Digital Marketing Services | done the smart way.",
+      "sideHead": "Only 58% of businesses are smart enough to use Digital Strategy & Services to establish their brand.",
+      "sideDescription": "Are you one of them ?",
+      "cards": {
+        "0": {
+          "title": "Business Social Media Management",
+          "description": "Our agency helps businesses acquire potential lifetime customers with engaging and interactive posts. Our services include high-value content to attract and retain customers for your brand.",
+          "buttonText": "Explore"
+        },
+        "1": {
+          "title": "Graphic Design",
+          "description": "Tour on to work with our Design Team, who garnishes creativity & innovation in logos, graphics & videos, business cards, and brochures that will make your brand stand out.",
+          "buttonText": "Explore"
+        },
+        "2": {
+          "title": "Business Social Media Management",
+          "description": "Our marketing experts know Optimized marketing & SEO is the key strategy to long-term organic growth that will drive potential traffic to your sites.",
+          "buttonText": "Explore"
+        }
+      }
+    },
+    "explanatory": {
+      "title": "We are passionate experienced team of professional",
+      "description": "Antsq, having years of expertise in | Digital Marketing Services |, digital strategy, services, and planning, is known for its outcomes & results in elevating small businesses to the next level. We are an expert team, skilled and passionate about our jobs in growing your business organically with key strategies and planning. We love working with small business brands and competing with giant competitors! We are tiny and still possess superhuman strength like an ant!",
+      "buttonText": "Get Started"
+    },
+    "midSection": {
+      "title": "How Antsq Stands Out From Others",
+      "cards": {
+        "0":{
+          "title": "Smart & Outperforming Skillset",
+          "description": "Our expert team has the right strategies and determination to help small businesses grow and succeed. We love turning small companies into potential brands with added values."
+        },
+        "1":{
+          "title": "Digital Marketing Services",
+          "description": "We help you analyze & choose the best marketing strategies and branding needs for you and your business to grow. We understand your needs and requirements better!"
+        },
+        "2":{
+          "title": "Expert Experience",
+          "description": "Our in-hand years of expert experience will provide you with complete services, including web development, SEO, graphic design, and videography, that will upgrade your brand to the next level."
+        }
+      }
+    },
+    "whatWeDo": {
+      "title": "WHAT WE DO",
+      "flexItems": {
+        "0":{
+          "title": "Social Media Marketing",
+          "description": "Our business experts create engaging & interactive posts that redefine the brand and create a flow of potential lifetime customers who bring in value.",
+          "buttonText": "Learn More"
+        },
+       "1":{
+          "title": "SEO optimized content",
+          "description": "SEO is all about driving in potential targeted audiences to the right place and creating brand awareness without being promotional. Antsq can manage your SEO optimization in the smartest possible way!",
+          "buttonText": "Learn More"
+        },
+        "2":{
+          "title": "Brand Reputation Management",
+          "description": "A positive online reputation boosts your profitability by attracting additional investors and clients. On the other hand, a negative reputation online has an impact on your company’s brand image, marketability, internet growth, and revenue.",
+          "buttonText": "Learn More"
+        },
+        "3":{
+          "title": "Email Marketing",
+          "description": "Our professionals provide Email Marketing services that engage your target customers & convert leads into conversions rather than landing the emails directly into their garbage bin.",
+          "buttonText": "Learn More"
+        },
+        "4":{
+          "title": "Graphic Design",
+          "description": "Design is an Aesthetic art that grabs attention. Antsq creators use high-end tools & software to design brand images, visuals, graphics, and many more to build your business.",
+          "buttonText": "Learn More"
+        },
+        "5":{
+          "title": "Web Development",
+          "description": "Website is one key factor in showcasing your business & brand. We build everything from landing pages to e-commerce websites and provide the best user experience and interface.",
+          "buttonText": "Learn More"
+        }
+      }
+    },
+    "footerBanner": {
+      "title": "READY TO GROW YOUR BUSINESS?",
+      "description": "Contact us to work with a results-driven digital marketing agency",
+      "button1": "Get Started",
+      "button2": "View Pricing"
+    }
+  },
+  "business": {
+    "hero": {
+      "popupText": "What we do best",
+      "title": "Create Your Own Web Masterpiece",
+      "subtitle": "Antsq team of social media analysts, managers & designers use their experience, creativity & passion to develop the best strategy for your brand and business. We are equipped with the right tools & tricks to create engaging posts & ads targeting potential audiences & quality organic traffic.",
+      "buttonText": "LET US HELP YOU CONQUER SOCIAL"
+    },
+    "cardSection": {
+    "heading":"Tailored Solutions for Your Growth",
+     "0": {
+        "title": "Profile | Management",
+        "description": "There are nearly 200 million business profiles on Instagram & Facebook. We make your business & brand stand apart from your competitors using key advertising strategies and analytics tools to target micro-niche audiences you want to engage.",
+        "buttonText": "Get Started"
+      },
+      "1":{
+        "title": "Return on | Investment",
+        "description": "We offer monthly analyses and detailed reports on user demographics, engagement statistics, and acquisitions based on Instagram's inbuilt pay-per-click advertising blueprint that turns potential leads into conversions.",
+        "buttonText": "Get Started"
+      },
+      "2":{
+        "title": "Planning & Strategy",
+        "description": "Planning & strategies are dynamic factors that can build potential businesses if done in an intelligent way. Summarising the analytics report, we establish marketing strategies that ensure business growth and a great return on your investment.",
+        "buttonText": "Get Started"
+      }
+    },
+    "newsLetter": {
+      "title": "Sign up newsletter",
+      "description": "Business is the activity of making one living or making money by producing or buying and selling products. Simply put it is any activity or enterprise entered into for profit.",
+      "namePlaceholder": "Name",
+      "emailPlaceholder": "Email",
+      "buttonText": "Sign Up Now"
+    }
+  },
+  "seo": {
+    "hero": {
+      "title": "SEM & SEO are about more | than ranking on Google.",
+      "subtitle1": "When your challengers are ranked right beside you, winning the trade comes down to who your client sees, knows, and trusts more.",
+      "subtitle2": "That means being discovered constantly across every space your leads look, learn, and buy. It means getting creative and bold with your SEO strategy. | That's why Power Digital's SEO platoon finds openings your challengers miss to craft strategies that drive short-term triumphs while erecting long-term growth",
+      "buttonText": "Get Started",
+      "rightSideTitle": "When you're visible at every stage from consideration to purchase, you will:",
+      "rightSubTitles": {
+        "0": "Grow Visibility and Trust",
+        "1":"Drive Sales Qualified Leads",
+        "2":"Reduce Acquisition Costs"
+      }
+    },
+    "explanatory": {
+      "title1": "“Online advertising in search engines & social media is proved to be the most popular advertising format, driving high potential customer leads & conversions. With the right experts, analysts, and best practices, one may explore vast opportunities in online marketing to expand businesses and brands using SEO and SEM. Antsq’s search engine marketing professionals simplify the mysteries of online marketing that best suits your business.”",
+      "title2": "We care for your marketing strategies, leaving you time to center on your next significant milestone!"
+    },
+    "cardSection": {
+      "title": "How we do it",
+      "cards": {
+        "0":{
+          "title": "Blog Wizard",
+          "description": "Need engaging and informative blog posts for your website? Our expert writers have designed the Blog Writing Wizard to make content creation a breeze. With our SEO-friendly blog posts, you can drive traffic to your website and engage your audience, helping you establish yourself as an authority in your industry. Simply provide your topic or keywords, and let our wizard work its magic to deliver high-quality blog posts that resonate with your audience.",
+          "buttonText": "Get Started"
+        },
+       "1":{
+          "title": "Pay Per Click Advertising",
+          "description": "Organic marketing will not fetch your business enough targets! This is where we dive in to help you fulfill the additional needs and leads in your business path. Antsq's expert team is smart enough to design the most economical & search engine-friendly advertising campaign using premium targeting, banner design techniques, and copywriting.",
+          "buttonText": "Get Started"
+        },
+        "2":{
+          "title": "Search Engine Optimization",
+          "description": "Our well-updated expert panels use their experience and technical know-how to keep your SEO campaign well-structured & tuned to the audience besides the latest algorithmic changes in Google's SEO. Antsq takes care of your placement and top spot in the SERP ranking organically.",
+          "buttonText": "Get Started"
+        },
+        "3":{
+          "title": "Monthly Reports",
+          "description": "We stand out from other marketing firms because Antsq believes in high return on investment and taking your businesses to the next level. We provide you with simplified monthly reports on your business performance, growth, and key areas to focus on using KPIs, analytic tools, and software.",
+          "buttonText": "Get Started"
+        }
+      }
+    }
+  },
+  "brandReputationPage": {
+    "hero": {
+      "popupText": "Listen to what your customers are talking about!",
+      "title": "We help you control your brand's reputation that speaks for your business.",
+      "buttonText": "Our Plans"
+    },
+    "servicesSection": {
+      "cards": {
+        "0":{
+          "title": "Brand Reputation Management",
+          "description": "A brand's reputation speaks louder than the business. Our team of added value professionals helps you stay on your prime! - needs through their feedback from over 250 digital & online review services, including Google, Facebook, Bing and lots more. We handle your business listings that rank higher online and get noticed with hundreds of sparkling reviews online. Schedule a demo with Antsq today to experience easy & free workflow.",
+          "buttonText": "Request a Quote"
+        },
+        "1":{
+          "title": "Listings",
+          "description": "Antsq will make your business listing management seamless, which smoothly manages updates, and gets you to the top. Get your brand and gets ranked higher in the online domain. Our tools and software that navigate your business information to your business & profiles to ensure your compatible listings. Antsq is here to ease the clutter from your life. Optimize for Google, Facebook, and Bing by optimizing the specific requirements of your potential customers!",
+          "buttonText": "Request a Quote"
+        },
+        "2":{
+          "title": "Reviews",
+          "description": "31% of customers spend around services & products, as businesses and brands that echo profoundly profile reviews. Antsq supports your business in monitoring, marketing, and generating customer reviews. We emphasize every dynamic study that boosts your SEO and profits, which makes you stand out from your competitors. Antsq ensures you handle all your thoughts in one simple, organized space!",
+          "buttonText": "Request a Quote"
+        }
+      }
+    },
+    "explanatorySection": {
+      "subtitle": "Design Your Brand to Create a Sustainable, Reliable Business Identity",
+      "title": "What Is Online Brand Reputation?",
+      "description": "What is a brand's reputation online? The general perception of your organization, products, and services held by the general public as a result of your online presence and reputation reviews is known as your brand's online reputation. The factor that determines how the whole market views your brand, from your employees, investors, and partners to your prospects and customers, is your internet reputation.",
+      "additionalText": "A positive online reputation boosts your profitability by attracting additional investors and clients. On the other hand, a negative reputation online has an impact on your company's brand image, marketability, internet growth, and revenue."
+    },
+    "processSection": {
+      "title": "Ready to build your reputation online? Jumpstart your business reputation management with these internet reputation best practices:",
+      "steps": {
+        "0":{
+          "title": "Monitor and Analyze Your Digital Presence",
+          "description": ""
+        },
+        "1":{
+          "title": "Set Up Your Online Listing",
+          "description": ""
+        },
+        "2":{
+          "title": "Create Your Brand Reputation Management Plan",
+          "description": ""
+        },
+        "3":{
+          "title": "Generate Positive Reviews",
+          "description": ""
+        },
+        "4":{
+          "title": "Engage With Your Audience",
+          "description": ""
+        }
+      }
+    },
+    "closingSection": {
+      "description": "Social media has been a significant aspect of the digital and online domain, building and generating business and products. Flipped are those days when companies had to mark their physical presence among the community. We help you set your online presence and reputation to grow your businesses"
+    }
+  },
+  "digitalMarketingPage": {
+    "hero": {
+      "title": "AI-Powered Digital Marketing That Drives Real Results",
+      "description": "Traditional SEO is dead. In 2025, winning online visibility requires AI-powered strategies that adapt in real-time to algorithm changes, predict user behavior, and optimize across hundreds of ranking factors simultaneously.",
+      "stats": {
+        "0":{
+          "value": "3x",
+          "label": "Faster Rankings"
+        },
+        "1":{
+          "value": "5x",
+          "label": "More Qualified Leads"
+        },
+        "2":{
+          "value": "60%",
+          "label": "Cost Reduction"
+        },
+        "3":{
+          "value": "24/7",
+          "label": "AI Optimization"
+        }
+      },
+      "buttons": {
+        "0":{
+          "text": "Pricing & Plans",
+          "type": "primary"
+        },
+        "1":{
+          "text": "Request for a demo",
+          "type": "secondary"
+        }
+      }
+    },
+    "marketingIntelligence": {
+      "title": "Marketing Intelligence",
+      "badge": "AI-Powered",
+      "metrics": {
+        "0":{
+          "label": "SEO Score",
+          "value": "94/100",
+          "change": "+12%",
+          "changeType": "positive"
+        },
+        "1":{
+          "label": "Lead Quality",
+          "value": "87%",
+          "change": "+23%",
+          "changeType": "positive"
+        },
+        "2":{
+          "label": "ROI Forecast",
+          "value": "312%",
+          "change": "+45%",
+          "changeType": "positive"
+        }
+      },
+      "note": "Analyzing 10,000+ data points per second"
+    },
+    "whyChooseSection": {
+      "title": "Why Choose AntsQ AI Marketing?",
+      "subtitle": "We go beyond automation — we implement intelligent systems that adapt, learn, and drive marketing performance autonomously.",
+      "features": {
+        "0":{
+          "title": "Real-Time Adaptation",
+          "description": "Our AI continuously monitors algorithm updates and adjusts strategies on the fly."
+        },
+        "1":{
+          "title": "Predictive Targeting",
+          "description": "We forecast audience behavior to deliver campaigns at the perfect moment."
+        },
+        "2":{
+          "title": "Autonomous Scaling",
+          "description": "Your ad campaigns scale intelligently based on budget, ROI, and market dynamics."
+        }
+      }
+    },
+    "resultsSection": {
+      "title": "Trusted by Brands That Want Results",
+      "stats": {
+        "0":{
+          "value": "+10k",
+          "label": "Monthly Visits Gained"
+        },
+        "1":{
+          "value": "+900%",
+          "label": "Avg. ROI Increase"
+        },
+        "2":{
+          "value": "70+",
+          "label": "Client Success Stories"
+        },
+        "3":{
+          "value": "98%",
+          "label": "Retention Rate"
+        }
+      }
+    }
+  },
+  "EmailMarketingPage": {
+    "hero": {
+      "subTitle":"GROW YOUR CUSTOMER BASE WITH ADVANCED",
+      "title": "Email Marketing Services",
+      "description": "Email Marketing is projected to have a high return on investment of $36 for every $1 spent. Gone are traditional & time-consuming ways of marketing to upscale your business or brands. Antsq is here to scale your business more innovatively. Our professionals provide.",
+      "buttonText": "Get Started"
+    },
+    "whatIsSection": {
+      "title": "What Is Email | Marketing?",
+      "description": "Email marketing is a digital marketing strategy used by thousands of businesses worldwide to create brand recognition, drive sales and build client relationships. Email marketing companies leverage different email service providers (ESPs) to send out automated, personalized marketing emails that contain brand promotions and announcements. Anything from weekly email newsletters and promo alerts to customer survey forms and event invitations can be considered a form of email marketing."
+    },
+    "needSection": {
+      "title": "The Need for Email Marketing",
+      "description": "Social Media Engagement & Email Marketing are quick strategies to help elevate the presence of small businesses and brands in the online domain through strategic online marketing approaches, analyses & tools. Well-planned & timely email campaigns can remind your target audience of the deals & eccentric services you offer at periodic intervals. The easy path gets in more audiences - Email Marketing provides an easy way of discovering benefits to potential audiences, leading to more conversions. Antsq exactly does this to mark your presence among your competitors."
+    },
+    "reachCustomersSection": {
+      "title": "Reach Your Customers",
+      "description": "The idea to reach your customers is now online, right through your email box. Antsq Marketing can help you reach your potential customers and engage email marketing campaigns with finesse and pitching strategy. Now, no landing of emails in the endless loop of spam."
+    },
+    "marketingEmailsSection": {
+      "title": "Send just the marketing emails that your clients will be interested in reading.",
+      "description": "Your consumers receive a barrage of marketing emails every day, all competing for their attention. Where do the majority of them go? To the empty space of 'unread' or the archives for years though, it need not be that way. According to DMA, promotional emails have the capacity to provide an average ROI of 122% when done correctly. But it's difficult to 'do it correctly.' Fortunately, you won't have to understand the distinction between a 'junk mail' and a 'oh, YES' email since we do."
+    },
+    "benefitsSection": {
+      "title": "Plus, when you work with Antsq for email marketing, you'll begin sending emails that:",
+      "benefits": {
+        "0":{
+          "title": "Nurture Leads from Warm to Hot",
+          "description": ""
+        },
+        "1":{
+          "title": "Build Trust and Credibility",
+          "description": ""
+        },
+        "2":{
+          "title": "Churn Out Sales Like a Machine",
+          "description": ""
+        }
+      }
+    },
+    "ctaSection": {
+      "title": "READY TO GROW YOUR BUSINESS?",
+      "description": "Contact us to work with a results-driven digital marketing agency",
+      "buttons": {
+        "0":{
+          "text": "Get Started",
+          "type": "primary"
+        },
+        "1":{
+          "text": "View Pricing",
+          "type": "secondary"
+        }
+      }
+    }
+  },
+  "graphicDesign": {
+    "hero": {
+      "subtitle": "What We Do Best",
+      "title": "Design Solutions for Inspiring Brands",
+      "description": "We can publish stunning images with the service of our expert graphic team by matching your budget imagery with our graphic design services, you can raise the quality of the interactions your customers have with your brand.",
+      "additionalText": "Prepared to improve? We can surely help.",
+      "buttonText": "Start Today"
+    },
+    "brandLifeSection": {
+      "title": "With our meticulous work, we'll bring your brand to life.",
+      "description": "Start to work with our Design Team, who garnishes creativity & innovation in logos, graphics & videos, | business cards, and brochures that will make your brand stand apart using key tools like Adobe Illustrator, | InDesign, Photoshop, AfterEffects and many more."
+    },
+    "featuresSection": {
+      "features": {
+        "0":{
+          "title": "Functional yet elegant",
+          "description": "Our goal is to produce a highly functional website without compromising the user that is leading your company goals. Our website layout is strong and updates at enhancing your business."
+        },
+        "1":{
+          "title": "Highly innovative",
+          "description": "Our team is aware that true success of the digital site is directly attached to design innovation. Therefore, creating a highly innovative web design for you is our top priority."
+        },
+        "2":{
+          "title": "Consistency",
+          "description": "When designing a website, we focus on maintaining uniformity in an extremely professional approach. Content created by our designers would be in line with your objectives and content."
+        },
+        "3":{
+          "title": "Creative",
+          "description": "Without the creative components, web design is nothing. Our main goal is to design creative websites, or to give it a result, we stay on course and keep getting up with innovative web designs."
+        },
+        "4":{
+          "title": "Easy navigation",
+          "description": "Our area of expertise is making web designs that are well-structured, uncomplicated, and user-friendly so that your website will receive more and more visitors if the navigation is simple."
+        },
+        "5":{
+          "title": "Unique, fresh, and optimized",
+          "description": "Our designs tend to look online special and are extremely customer-focused. You can expect stand out from your rivals. As a result, you can rely on our modern, optimized website design to beat out your rivals."
+        }
+      }
+    },
+    "capabilitiesSection": {
+      "title": "Numerous design capabilities housed under one building",
+      "description": "Superside's global community of top-notch graphic designers can create whatever you need in terms of graphic design services, such as incredible illustrations, stunning print designs, or captivating digital experiences. Recruit a super team of specialists to handle any type of graphic design you may require.",
+      "servicesSlider":  {
+        "0": {
+          "title": "Ad Design & Creative",
+          "content":
+            "Get ideas, concepts, and variations for static and motion ads so you can test your way to better outcomes. Connect your marketing team to a design team that is fully staffed and start supplying your campaigns with constant access to ad creative.",
+          "src": "/graphic-design/design1.webp"
+        },
+        "1": {
+          "title": "Social Media Design & Creative",
+          "content":
+            "For your social media platforms, get original designs. A fully stacked team of designers producing the best social media creative will energize your marketing, whether it be static, animated, or video, from Instagram to YouTube or Facebook.",
+          "src": "/graphic-design/design2.jpeg"
+        },
+        "2": {
+          "title": "Presentation Design",
+          "content":
+            "For your compelling PowerPoint presentations, sales decks, or pitch decks, get original designs created. Both startups and scale-ups depend on Superside to design custom decks from scratch or modify existing ones as needed.",
+          "src": "/graphic-design/design3.png"
+        },
+        "3": {
+          "title": "Landing Page Design",
+          "content":
+            "Create landing pages from scratch or based on already published content. We provide high-fidelity UI designs and thoughtful UX wireframes. Get the innovative landing page designs your company needs to increase conversions.",
+          "src": "/graphic-design/design4.jpeg"
+        },
+        "4": {
+          "title": "Email Design Services",
+          "content":
+            "To draw in your audience, use original email designs, templates, and creative. Refresh your communications and gain access to a top-notch team of designers to begin life-like email campaign design.",
+          "src": "/graphic-design/design5.jpeg"
+        },
+        "5": {
+          "title": "Illustration Design",
+          "content":
+            "Get personalized, brand-consistent illustrations for your company's marketing initiatives or for use in your business. Get the illustration expertise your business needs by integrating a fully-stacked design team into it.",
+          "src": "/graphic-design/design6.png"
+        },
+        "6": {
+          "title": "Branding Services",
+          "content":
+            "Get the brand knowledge you require, wherever you need it, from brand creation to personalized branding strategies. Join forces with a fully stacked design team of experts from your brand, creative, and marketing departments to develop or improve the unforgettable branding your company deserves.",
+          "src": "/graphic-design/design7.jpeg"
+        },
+        "7": {
+          "title": "Print Design & Editorial Services",
+          "content":
+            "Get custom print designs for everything from book covers to magazines to posters and flyers to grab the attention of your audience. Install a committed and well-stocked design team within your company to create only the highest caliber print designs.",
+          "src": "/graphic-design/design8.jpeg"
+        }
+      },
+      "buttonText": "Book a Call"
+    },
+    "processSection": {
+      "title": "Our purpose driven web design process",
+      "steps": {
+        "0":{
+          "number": "01",
+          "title": "Introduction",
+          "description": "Have a conversation with our design team so that our professional is to show your thoughts and requirements for your website."
+        },
+        "1":{
+          "number": "02",
+          "title": "Creation",
+          "description": "The designer will create customized design ideas for you for approval and modifications."
+        },
+        "2":{
+          "number": "03",
+          "title": "Right or Left",
+          "description": "After your decision that you can completely choose to send back your revisions."
+        },
+        "3":{
+          "number": "04",
+          "title": "Final Product",
+          "description": "Order Final Project! Designed and tested and delivered you all with all the required revisions & ideas specified."
+        }
+      }
+    },
+    "ctaSection": {
+      "title": "Designs That Don't Just Look Good — They Speak for You",
+      "buttonText": "Get Started"
+    }
+  },
+  "webDevelopmentPage": {
+    "hero": {
+      "subtitle": "GOING BEYOND THE POSSIBLE",
+      "title": "AI-Powered Web Development That Transforms Ideas Into Reality",
+      "description": "From concept to deployment in record time. We leverage cutting-edge AI/ML technologies to build stunning websites, web applications, and SaaS platforms that scale.",
+      "technologies": [
+        "AI/ML Integration",
+        "MERN Stack",
+        "Java & .NET",
+        "Angular & React",
+        "WordPress Pro",
+        "SaaS Solutions"
+      ],
+      "buttons": {
+        "0":{
+          "text": "Schedule a Demo",
+          "type": "primary"
+        },
+        "1":{
+          "text": "View Services",
+          "type": "secondary"
+        }
+      }
+    },
+    "servicesSection": {
+      "title": "Revolutionary Development Services",
+      "subtitle": "Harness the power of AI and modern tech stacks to build exceptional digital experiences that drive growth and innovation.",
+      "services": {
+        "0":{
+          "title": "AI-Powered Development",
+          "description": "Leverage machine learning for intelligent code generation, automated testing, and smart optimization.",
+          "features": [
+            "Automated code generation",
+            "Intelligent bug detection",
+            "Performance optimization",
+            "Predictive analytics integration"
+          ]
+        },
+        "1":{
+          "title": "Rapid SaaS Development",
+          "description": "End-to-end SaaS solutions with user management, analytics, and scalable architecture.",
+          "features": [
+            "Multi-tenant architecture",
+            "Payment integration",
+            "Real-time analytics",
+            "API integration"
+          ]
+        },
+        "2":{
+          "title": "Intelligent Design Systems",
+          "description": "AI-assisted design that creates consistent, accessible, and beautiful interfaces.",
+          "features": [
+            "AI-generated design variations",
+            "Accessibility compliance",
+            "Responsive optimization",
+            "Usability compliance"
+          ]
+        },
+        "3":{
+          "title": "Full-Stack Excellence",
+          "description": "Complete web solutions using MERN, Java, .NET, Angular & more — all cloud-ready and scalable.",
+          "features": [
+            "Microservices architecture",
+            "Cloud-native development",
+            "Real-time features",
+            "Security-first practices"
+          ]
+        },
+        "4":{
+          "title": "Data-Driven Optimization",
+          "description": "Advanced analytics and ML-driven insights that elevate performance and UX continuously.",
+          "features": [
+            "User behavior analysis",
+            "Performance monitoring",
+            "Predictive insights"
+          ]
+        },
+        "5":{
+          "title": "WordPress AI Enhancement",
+          "description": "Elevate WordPress with intelligent automation, SEO, and performance boosts.",
+          "features": [
+            "Custom AI plugins",
+            "Automated content optimization",
+            "Advanced SEO integration",
+            "Performance acceleration"
+          ]
+        }
+      }
+    },
+    "processSection": {
+      "title": "Our AI-Accelerated Process",
+      "subtitle": "From ideation to deployment, our intelligent workflow ensures rapid delivery without compromising quality.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "AI-Powered Discovery",
+          "description": "We use advanced analytics to understand your market and generate project specs in hours."
+        },
+        {
+          "number": "02",
+          "title": "Intelligent Architecture",
+          "description": "Our AI recommends the best tech stack and design based on your specific needs."
+        },
+        {
+          "number": "03",
+          "title": "Accelerated Development",
+          "description": "AI-assisted coding and testing to deliver quality apps up to 3x faster."
+        },
+        {
+          "number": "04",
+          "title": "Smart Optimization",
+          "description": "Continuous AI monitoring ensures peak performance and security from day one."
+        },
+        {
+          "number": "05",
+          "title": "Launch & Scale",
+          "description": "Seamless deployment with scaling & analytics. Ready to grow from day one."
+        }
+      ]
+    }
+  },
+  "pricingPage": {
+    "hero": {
+      "title": "Pricing",
+      "subtitle": "Choose The Plan That's Right For You",
+      "description": "Our dedicated social media manager will handle your business with top advertising strategies. A digital media marketing technique creating results for your business.",
+      "additionalText": "Discover our affordable pricing plans",
+      "note": "Explore Our Plans & Pick Yours"
+    },
+    "socialMediaSection": {
+      "title": "Social Media Management(SMM) Services",
+      "subtitle": "Choose a plan — we'll handle the rest.",
+      "buttonText":["Monthly","Yearly"],
+      "discount": "Get flat 20% off on yearly",
+      "planTypes": {
+        "starterPackage":{
+          "header": {
+            "ant": "Fire ant",
+            "package": "Starter Package",
+            "subTitle": "Essential marketing tools",
+            "description": "Basic SMM",
+            "monthlyPrice": "575",
+            "yearlyPrice": "6210",
+            "buttonText": "Signup Now",
+            "url": "/plans-pricing/fire-ant.png",
+            "actualPrice": "575",
+            "actualYearlyPrice": "6210",
+            "discount": "27"
+          },
+          "data": [
+            {
+              "content": "Evaluation of the page/channel performance",
+              "img": "/plans-pricing/page-channel.svg",
+              "tooltipContent": "Regular analysis to assess and improve your page or channel's performance."
+            },
+            {
+              "content": "Social media platform setup and management",
+              "img": "/plans-pricing/page-channel.svg",
+              "tooltipContent": "Comprehensive setup and ongoing management of your social media profiles."
+            },
+            {
+              "content": "2 posts/week in 4 platforms (Instagram, Facebook, Twitter + any 1 platform of your choice)",
+              "img": "/plans-pricing/2-high-quality.svg",
+              "tooltipContent": "2 posts per week on Instagram, Facebook, Twitter, and one additional platform of your choice."
+            },
+            {
+              "content": "1 SEO blog/month (1,000 words)",
+              "img": "/plans-pricing/seo-notes.svg",
+              "tooltipContent": "One 1,000-word SEO-optimized blog delivered each month to boost search rankings."
+            },
+            {
+              "content": "Up to 5 Instagram or Facebook stories / month",
+              "img": "/plans-pricing/upload.svg",
+              "tooltipContent": "Get up to 5 engaging Instagram or Facebook stories each month to enhance visibility."
+            },
+            {
+              "content": "Approval and editing of posts before publication",
+              "img": "/plans-pricing/approval-list.svg",
+              "tooltipContent": "Posts will be shared for approval and edited as needed before going live."
+            },
+            {
+              "content": "Monthly analytics dashboard for monitoring performance",
+              "img": "/plans-pricing/monthly-analytics.svg",
+              "tooltipContent": "Access a monthly dashboard to track and analyze campaign performance."
+            },
+            {
+              "content": "Use of hashtags to increase visibility and engagement",
+              "img": "/plans-pricing/hashtags.svg",
+              "tooltipContent": "Strategic use of hashtags to boost post reach and audience engagement."
+            },
+            {
+              "content": "Content calendar for planning (Google Sheet)",
+              "img": "/plans-pricing/calendar.svg",
+              "tooltipContent": "Organized content calendar in Google Sheets to plan posts ahead of time."
+            },
+            {
+              "content": "2 complementary posts for special days in a month",
+              "img": "/plans-pricing/upload.svg",
+              "tooltipContent": "Includes 2 bonus posts each month for special days and occasions."
+            },
+            {
+              "content": "Email & Chat support (48 hours - maximum response time)",
+              "img": "/plans-pricing/slack.svg",
+              "tooltipContent": "Get support via email and chat with a maximum 48-hour response time."
+            },
+            {
+              "content": "Simple monthly billing with no additional commitments.",
+              "img": "/plans-pricing/calendar.svg",
+              "tooltipContent": "Pay monthly with no long-term contracts or hidden fees."
+            }
+          ],
+          "id": "685bc06d9c259d9151045dfb"
+        },
+        "growthPackage":{
+          "header": {
+            "ant": "Leafcutter ant",
+            "package": "Growth Package",
+            "subTitle": "Starter growth package",
+            "description": "Standard SMM",
+            "monthlyPrice": "875",
+            "yearlyPrice": "9450",
+            "buttonText": "Signup Now",
+            "url": "/plans-pricing/leaf-cutter-ant.png",
+            "actualPrice": "875",
+            "actualYearlyPrice": "9450",
+            "discount": "20"
+          },
+          "data": [
+            {
+              "content": "Evaluation of the page/channel performance",
+              "img": "/plans-pricing/page-channel.svg",
+              "tooltipContent": "Regular insights into page and channel performance to refine your digital strategy."
+            },
+            {
+              "content": "Social media platform setup and management",
+              "img": "/plans-pricing/page-channel.svg",
+              "tooltipContent": "Professional setup and routine management of your social media accounts."
+            },
+            {
+              "content": "4 posts/week in 4 platforms (Instagram, Facebook, Twitter + any 5 platforms of your choice)",
+              "img": "/plans-pricing/2-high-quality.svg",
+              "tooltipContent": "Consistent posting—4 times a week—across up to 8 platforms to boost reach."
+            },
+            {
+              "content": "2 SEO blogs/month (1200+ words with special keywords)",
+              "img": "/plans-pricing/seo-notes.svg",
+              "tooltipContent": "High-quality SEO blogs written monthly to improve search engine visibility and traffic."
+            },
+            {
+              "content": "10 Instagram/Facebook stories per month",
+              "img": "/plans-pricing/upload.svg",
+              "tooltipContent": "Engaging stories crafted for Instagram and Facebook to maintain audience interaction."
+            },
+            {
+              "content": "Setup and optimization of social accounts",
+              "img": "/plans-pricing/setup-setting.svg",
+              "tooltipContent": "Initial account creation and strategic optimization for maximum profile effectiveness."
+            },
+            {
+              "content": "Approval and editing of posts before publication",
+              "img": "/plans-pricing/approval-list.svg",
+              "tooltipContent": "Review and revise posts with your feedback before they're published."
+            },
+            {
+              "content": "Monthly analytics dashboard for monitoring performance",
+              "img": "/plans-pricing/monthly-analytics.svg",
+              "tooltipContent": "Track performance through a clear dashboard updated monthly with key metrics."
+            },
+            {
+              "content": "Use of hashtags to increase visibility and engagement",
+              "img": "/plans-pricing/hashtags.svg",
+              "tooltipContent": "Strategic hashtag usage to maximize content discovery and engagement."
+            },
+            {
+              "content": "Content calendar for planning (Google Sheet)",
+              "img": "/plans-pricing/slack.svg",
+              "tooltipContent": "Collaborative calendar in Google Sheets to plan and schedule content efficiently."
+            },
+            {
+              "content": "4 complementary posts for special days in a month",
+              "img": "/plans-pricing/calendar.svg",
+              "tooltipContent": "Bonus posts for festivals or trending occasions to stay culturally relevant."
+            },
+            {
+              "content": "Email & Chat support (24 hours - Maximum response time)",
+              "img": "/plans-pricing/slack.svg",
+              "tooltipContent": "Reliable support via email or chat, guaranteed response within 24 hours."
+            },
+            {
+              "content": "Posting on Google Listing.",
+              "img": "/plans-pricing/chrome.svg",
+              "tooltipContent": "Keep your Google Business Profile active with regular post updates."
+            },
+            {
+              "content": "Keyword research",
+              "img": "/plans-pricing/search.svg",
+              "tooltipContent": "Identify high-performing keywords to enhance content discoverability."
+            },
+            {
+              "content": "Up to 2 hours of online engagement",
+              "img": "/plans-pricing/monitor-check.svg",
+              "tooltipContent": "We'll interact with your audience through comments, DMs, and engagement strategies."
+            },
+            {
+              "content": "Meta Ad campaign setup and management",
+              "img": "/plans-pricing/megaphone.svg",
+              "tooltipContent": "Launch and manage targeted ads on Meta platforms to grow your reach and conversions."
+            }
+          ],
+          "id": "685bc0ee9c259d9151045dfc"
+        },
+        "topTierPackage":{
+          "header": {
+            "ant": "Bullet ant",
+            "package": "Top Tier Package",
+            "subTitle": "For new businesses",
+            "description": "Advanced SMM",
+            "monthlyPrice": "1175",
+            "yearlyPrice": "12690",
+            "buttonText": "Signup Now",
+            "url": "/plans-pricing/bullet-ant.png",
+            "actualPrice": "1050",
+            "actualYearlyPrice": "15228",
+            "discount": "20"
+          },
+          "data": [
+            {
+              "content": "Evaluation of the page/channel performance",
+              "img": "/plans-pricing/page-channel.svg",
+              "tooltipContent": "Detailed performance audit of your social media profiles to identify growth opportunities and optimize strategy."
+            },
+            {
+              "content": "Social media platform setup and management",
+              "img": "/plans-pricing/page-channel.svg",
+              "tooltipContent": "Complete setup and professional management of your social media profiles across selected platforms."
+            },
+            {
+              "content": "6 posts/week in 15 platforms(Instagram, Facebook, Twitter, Linkedin, Youtube + any 10 platforms of your choice.)",
+              "img": "/plans-pricing/2-high-quality.svg",
+              "tooltipContent": "Consistent posting across 15 platforms, 6 times a week, including major networks and 10 platforms of your choice."
+            },
+            {
+              "content": "4 SEO blogs/month (1200+ words with special keywords)",
+              "img": "/plans-pricing/seo-notes.svg",
+              "tooltipContent": "High-quality, keyword-rich SEO blogs to drive traffic and improve search rankings."
+            },
+            {
+              "content": "15 Instagram/Facebook stories per month",
+              "img": "/plans-pricing/upload.svg",
+              "tooltipContent": "Creative, timely stories published across Instagram and Facebook to boost real-time engagement."
+            },
+            {
+              "content": "Setup and optimization of social accounts",
+              "img": "/plans-pricing/setup-setting.svg",
+              "tooltipContent": "Fine-tuned setup and optimization of your social profiles to align with branding and SEO goals."
+            },
+            {
+              "content": "Approval and editing of posts before publication",
+              "img": "/plans-pricing/approval-list.svg",
+              "tooltipContent": "Review and approval process ensures your content is always aligned with your brand voice."
+            },
+            {
+              "content": "Monthly analytics dashboard for monitoring performance",
+              "img": "/plans-pricing/monthly-analytics.svg",
+              "tooltipContent": "Comprehensive dashboard tracking KPIs, engagement metrics, and monthly growth trends."
+            },
+            {
+              "content": "Use of hashtags to increase visibility and engagement",
+              "img": "/plans-pricing/hashtags.svg",
+              "tooltipContent": "Strategic hashtag usage to improve content reach, discoverability, and engagement."
+            },
+            {
+              "content": "Content calendar for planning(Google Sheet)",
+              "img": "/plans-pricing/slack.svg",
+              "tooltipContent": "Organized calendar (via Google Sheet) to transparently plan your monthly content in advance."
+            },
+            {
+              "content": "6 complementary posts for special days in a month",
+              "img": "/plans-pricing/calendar.svg",
+              "tooltipContent": "Themed posts for special occasions (festivals, events, awareness days) to connect with your audience."
+            },
+            {
+              "content": "2 Promotional Videos Per Month",
+              "img": "/plans-pricing/video.svg",
+              "tooltipContent": "Engaging promotional videos created monthly to market your brand, products, or offers."
+            },
+            {
+              "content": "Email & Chat support(24 hours response time)",
+              "img": "/plans-pricing/slack.svg",
+              "tooltipContent": "Reliable support with guaranteed response within 24 hours via email and chat."
+            },
+            {
+              "content": "Posting on Google Listing",
+              "img": "/plans-pricing/thumbs-up.svg",
+              "tooltipContent": "Optimized posts on your Google Business Profile to improve local visibility and customer interaction."
+            },
+            {
+              "content": "Keyword research",
+              "img": "/plans-pricing/search.svg",
+              "tooltipContent": "In-depth keyword analysis to boost SEO efforts and target the right search queries."
+            },
+            {
+              "content": "Upto 2 hours of online engagement",
+              "img": "/plans-pricing/monitor-check.svg",
+              "tooltipContent": "Active interactions (likes, comments, responses) with your audience for up to 2 hours monthly."
+            },
+            {
+              "content": "Google Ads setup and management",
+              "img": "/plans-pricing/megaphone.svg",
+              "tooltipContent": "Note:Ad spend to be paid separately to google ads"
+            },
+            {
+              "content": "Meta Ads setup and mangement",
+              "img": "/plans-pricing/megaphone.svg",
+              "tooltipContent": "Note:Ad spend payable separately to Meta)"
+            },
+            {
+              "content": "2 Ad-ready promo videos/month (professional style for Google/Meta ads)",
+              "img": "/plans-pricing/video.svg",
+              "tooltipContent": "Polished promotional videos optimized for paid ad campaigns across Meta and Google platforms."
+            },
+            {
+              "content": "Email Campaign setup and management",
+              "img": "/plans-pricing/slack.svg",
+              "tooltipContent": "Design, scheduling, and performance tracking of email campaigns tailored for your audience."
+            },
+            {
+              "content": "Complimentary website design included (domain and hosting charges apply separately)",
+              "img": "/plans-pricing/component.svg",
+              "tooltipContent": "Professional website design included as a bonus; domain and hosting costs are billed separately."
+            }
+          ],
+          "id": "685bc1639c259d9151045dfd"
+        },
+        "customPackage":{
+          "header": {
+            "ant": "Artisan ant",
+            "package": "Custom Package",
+            "description": "web development & Design",
+            "monthlyPrice": "na",
+            "yearlyPrice": "Talk to us",
+            "buttonText": "Request a Quote",
+            "url": "/plans-pricing/artisan-ant.png"
+          },
+          "data": [
+            {
+              "content": "Custom Website Design",
+              "img": "/plans-pricing/custom-web.svg",
+              "tooltipContent": "Bespoke visual identity that captures your brand essence and converts visitors into customers. No templates, no shortcuts—just pure creative excellence tailored to your unique business story."
+            },
+            {
+              "content": "Tailored Web Solutions by Business",
+              "img": "/plans-pricing/tailored-web.svg",
+              "tooltipContent": "Industry-specific functionality and features designed for your market. Whether you're in e-commerce, healthcare, professional services, or hospitality—we speak your business language."
+            },
+            {
+              "content": "Responsive Design",
+              "img": "/plans-pricing/responsive.svg",
+              "tooltipContent": "Flawless experience across all devices—desktop, tablet, and mobile. Your website will look stunning and function perfectly, regardless of how your customers find you."
+            },
+            {
+              "content": "Modern Technology Stack",
+              "img": "/plans-pricing/tailored-web.svg",
+              "tooltipContent": "Built on cutting-edge platforms: WordPress for content-rich sites, React for dynamic applications, or custom solutions. Choose your preferred CMS or let us recommend the perfect fit for your needs."
+            },
+            {
+              "content": "Full Stack Development",
+              "img": "/plans-pricing/search-engine.svg",
+              "tooltipContent": "Complete frontend and backend development capabilities. Beautiful user interfaces powered by robust server-side architecture that scales with your business growth."
+            },
+            {
+              "content": "Database & Cloud Solutions",
+              "img": "/plans-pricing/social-media.svg",
+              "tooltipContent": "Secure, scalable data management with Supabase, MongoDB, or PostgreSQL. Real-time data synchronization, automated backups, and cloud-native architecture for maximum reliability."
+            },
+            {
+              "content": "E-commerce Integration",
+              "img": "/plans-pricing/analytics-monitor.svg",
+              "tooltipContent": "Complete online selling solutions with inventory management, payment processing, order tracking, and customer accounts. From simple product catalogs to complex B2B marketplaces."
+            },
+            {
+              "content": "Admin Dashboard & Analysis",
+              "img": "/plans-pricing/performance.svg",
+              "tooltipContent": "Powerful backend management system for your team. Real-time analytics, user management, content control, and business intelligence—all in one intuitive interface."
+            },
+            {
+              "content": "Client Dashboard Panels",
+              "img": "/plans-pricing/training.svg",
+              "tooltipContent": "Custom portals for your customers with login areas, account management, order history, support tickets, and personalized experiences that increase retention."
+            },
+            {
+              "content": "User Authentication & Security",
+              "img": "/plans-pricing/shield.svg",
+              "tooltipContent": "Multi-level user roles, secure login systems, two-factor authentication, and compliance-ready security protocols. Your data and your customers' data stay protected."
+            },
+            {
+              "content": "Api Development & Integration",
+              "img": "/plans-pricing/chevrons-left-right-ellipsis.svg",
+              "tooltipContent": "Custom APIs for third-party integrations, mobile apps, or connecting multiple systems. Seamless data flow between your website and existing business tools."
+            },
+            {
+              "content": "Email & SMS Automation",
+              "img": "/plans-pricing/mail.svg",
+              "tooltipContent": "Automated marketing sequences, transactional emails, abandoned cart recovery, and SMS notifications. Turn one-time visitors into loyal customers."
+            },
+            {
+              "content": "Payment Gateway Integration",
+              "img": "/plans-pricing/badge-dollar-sign.svg",
+              "tooltipContent": "Secure payment processing with Stripe, PayPal, Square, or custom solutions. Support for subscriptions, one-time payments, and international transactions."
+            },
+            {
+              "content": "Progressive Web App(PWA)",
+              "img": "/plans-pricing/layout-grid.svg",
+              "tooltipContent": "App-like experience without app store downloads. Push notifications, offline functionality, and home screen installation for maximum user engagement."
+            },
+            {
+              "content": "Content Creation & Management",
+              "img": "/plans-pricing/monitor-check.svg",
+              "tooltipContent": "Compelling copy and visual content that tells your story. Advanced content management systems with scheduling, version control, and multi-user collaboration."
+            },
+            {
+              "content": "Search Engine Optimization(SEO)",
+              "img": "/plans-pricing/search.svg",
+              "tooltipContent": "Strategic optimization to help your ideal customers find you on Google. Technical SEO, keyword research, and content optimization for sustainable organic growth."
+            },
+            {
+              "content": "Social Media Integration",
+              "img": "/plans-pricing/social-media.svg",
+              "tooltipContent": "Seamless connection between your website and social platforms. Live feeds, social commerce, sharing capabilities, and social login options."
+            },
+            {
+              "content": "Lead Capture & CRM Management",
+              "img": "/plans-pricing/user-check.svg",
+              "tooltipContent": "Intelligent forms that convert visitors into prospects. Integration with HubSpot, Salesforce, or custom CRM solutions for streamlined lead management."
+            },
+            {
+              "content": "Advanced Analytics & Monitoring",
+              "img": "/plans-pricing/monitor-check.svg",
+              "tooltipContent": "Real-time insights with Google Analytics 4, custom dashboards, heat mapping, user journey analysis, and conversion tracking across all touchpoints."
+            },
+            {
+              "content": "Enterprise Security & Performance",
+              "img": "/plans-pricing/shield.svg",
+              "tooltipContent": "SSL certificates, regular security audits, malware protection, CDN integration, and performance optimization for lightning-fast loading speeds."
+            },
+            {
+              "content": "Cloud Hosting & Devops",
+              "img": "/plans-pricing/cloud.svg",
+              "tooltipContent": "Scalable cloud infrastructure with AWS, Azure, or Google Cloud. Automated deployments, staging environments, and 99.9% uptime guarantee."
+            },
+            {
+              "content": "Backup & Disaster Recovery",
+              "img": "/plans-pricing/database-backup.svg",
+              "tooltipContent": "Automated daily backups, version control, and disaster recovery plans. Your website and data are always protected and recoverable."
+            },
+            {
+              "content": "Comprehensive Traning",
+              "img": "/plans-pricing/hand-helping.svg",
+              "tooltipContent": "Full onboarding for your team: content management, dashboard usage, SEO basics, and best practices. Video tutorials and documentation included."
+            },
+            {
+              "content": "Maintenance & Support",
+              "img": "/plans-pricing/maintenance.svg",
+              "tooltipContent": "Ongoing technical support, security updates, performance monitoring, and feature enhancements. Priority response times and proactive issue resolution."
+            },
+            {
+              "content": "Growth Strategy Consultation",
+              "img": "/plans-pricing/sprout.svg",
+              "tooltipContent": "Monthly strategy sessions to optimize performance, plan new features, and scale your digital presence. We're your long-term growth partners."
+            }
+          ]
+        }
+    },
+     "cartStatus":"Add to cart | Remove from cart"
+    },
+    "seoSection": {
+      "title": "Search Engine Optimization Services",
+      "subtitle": "Our dedicated SEO experts will boost your website with On page and Off page SEO. Choose package Which suits you best.",
+      "buttonText":["Monthly","Yearly"],
+      "discount20":"Get flat 20% bundle discount on cart total",
+      "discount10":"Get 10% bundle discount on cart total",
+      "additionalText": "Choose which plan for you.",
+      "planTypes": {
+        "seedAnt":{
+          "header": {
+            "ant": "Seed Ant",
+            "package": "Basic",
+            "subTitle": "Essential SEO keyword setup",
+            "monthlyPrice": "950",
+            "yearlyPrice": "10260",
+            "buttonText": "Buy Now",
+            "url": "/plans-pricing/hammerAnt.png",
+            "desc": [
+              "All-in-SEO for 5 Page.",
+              "Site Audit, Keyword mapping, Backlinks,",
+              "Content optimization"
+            ]
+          },
+          "data": [
+            {
+              "content": "SEO Audit",
+              "img": "/plans-pricing/search-check.svg"
+            },
+            {
+              "content": "Competitor Analysis",
+              "img": "/plans-pricing/users.svg"
+            },
+            {
+              "content": "On-page optimization",
+              "img": "/plans-pricing/cog.svg"
+            },
+            {
+              "content": "Technical SEO",
+              "img": "/plans-pricing/terminal.svg"
+            },
+            {
+              "content": "Off-page strategy",
+              "img": "/plans-pricing/external-link.svg"
+            },
+            {
+              "content": "Guest posting strategy",
+              "img": "/plans-pricing/file-pen-line.svg"
+            },
+            {
+              "content": "Keywords researched: 20",
+              "img": "/plans-pricing/file-search.svg"
+            }
+          ],
+          "id": "7f4c2a9e1d2b3c4567890abc"
+        },
+        "metaAnt":{
+          "header": {
+            "ant": "Meta Ant",
+            "package": "Premium",
+            "subTitle": "Advanced SEO strategy",
+            "monthlyPrice": "1500",
+            "yearlyPrice": "16200",
+            "buttonText": "Buy Now",
+            "url": "/plans-pricing/craftsman.png",
+            "desc": [
+              "All-in-SEO for 20+ Pages.",
+              "Site Audit, Keyword mapping, Backlinks,",
+              "Content optimization"
+            ]
+          },
+          "data": [
+            {
+              "content": "SEO Audit",
+              "img": "/plans-pricing/search-check.svg"
+            },
+            {
+              "content": "Competitor Analysis",
+              "img": "/plans-pricing/users.svg"
+            },
+            {
+              "content": "On-page optimization",
+              "img": "/plans-pricing/cog.svg"
+            },
+            {
+              "content": "Technical SEO",
+              "img": "/plans-pricing/terminal.svg"
+            },
+            {
+              "content": "Off-page strategy",
+              "img": "/plans-pricing/external-link.svg"
+            },
+            {
+              "content": "Guest posting strategy",
+              "img": "/plans-pricing/file-pen-line.svg"
+            },
+            {
+              "content": "Keywords researched: 60",
+              "img": "/plans-pricing/file-search.svg"
+            },
+            {
+              "content": "Bad links removal",
+              "img": "/plans-pricing/link-2-off.svg"
+            }
+          ],
+          "id": "9a1b2c3d4e5f60718293a4bd"
+        },
+        "optimizerAnt":{
+          "header": {
+            "ant": "Optimizer Ant",
+            "package": "Standard",
+            "subTitle": "Full on-page optimization",
+            "monthlyPrice": "1200",
+            "yearlyPrice": "12960",
+            "buttonText": "Buy Now",
+            "url": "/plans-pricing/spannerAnt.png",
+            "desc": [
+              "All-in-SEO for 10 Pages.",
+              "Site Audit, Keyword mapping, Backlinks,",
+              "Content optimization"
+            ]
+          },
+          "data": [
+            {
+              "content": "SEO Audit",
+              "img": "/plans-pricing/search-check.svg"
+            },
+            {
+              "content": "Competitor Analysis",
+              "img": "/plans-pricing/users.svg"
+            },
+            {
+              "content": "On-page optimization",
+              "img": "/plans-pricing/cog.svg"
+            },
+            {
+              "content": "Technical SEO",
+              "img": "/plans-pricing/terminal.svg"
+            },
+            {
+              "content": "Off-page strategy",
+              "img": "/plans-pricing/external-link.svg"
+            },
+            {
+              "content": "Guest posting strategy",
+              "img": "/plans-pricing/file-pen-line.svg"
+            },
+            {
+              "content": "Keywords researched: 50",
+              "img": "/plans-pricing/file-search.svg"
+            }
+          ],
+          "id": "5d3e2f1c0a9b8c7d6e4f3210"
+        }
+    },
+    "cartStatus":"Add to cart | Remove from cart"
+    }
+  },
+  "AIWriterPage": {
+    "hero": {
+      "title": "The Next | Generation | AI writing tool",
+      "description": "Unleash Your Creativity and Productivity with AI.antsq.com. Our platform harnesses the power of <span>GPT-3</span> and <span>DALL·E</span> to offer SEO-optimized auto-blogging services with WordPress plugin support. Experience seamless productivity and take your content to the next level with us today.",
+      "buttonText": "Get Started"
+    },
+    "featuresSection": {
+      "features": [
+        {
+          "title": "Empower",
+          "description": "At Antsq.ai, the ultimate platform powered by GPT-3 and DALL-E, we provide cutting-edge AI technology to boost your productivity and creativity."
+        },
+        {
+          "title": "Transform",
+          "description": "At Antsq.ai, our writing AI platform gives GPT-3 and DALL-E to effortlessly generate exceptional content and stunning visuals with seamless WordPress plugin integration."
+        },
+        {
+          "title": "Innovate",
+          "description": "Experience the power of innovation with Antsq.ai, the innovative platform powered by GPT-3 and DALL-E. Get exceptional content creation and visual generation with our WordPress plugin compatibility."
+        }
+      ]
+    },
+    "helpSection": {
+      "title": "Antsq.ai helps ",
+      "animeText":"marketing agencies | content creators | business owners | entrepreneurs",
+      "description": "A cutting-edge writing app that will revolutionize your content creation game. Powered by the latest GPT-3 technology, our app offers a wide range of features to fit the brand essence too. Whether you're a blogger, marketer, student, or professional writer, our app is designed to assist in every case, making it stand out from any audience's attention like never before. With seamless WordPress plugin integration with WordPress plugins makes it a comprehensive solution for all your writing needs. From generating blog posts and articles to creating compelling social media captions, our app covers it all. Say goodbye to mundane writing tasks and unlock the true potential of your creativity with our AI-powered writing assistant.",
+      "buttonText": "Get Started"
+    },
+    "wizardsSection": {
+      "title": "Explore AntsQ.AI Wizards",
+      "subtitle": "Discover our specialized AI-powered writing tools designed to streamline your content creation process across different industries and use cases.",
+      "wizards": [
+        {
+          "title": "Blog <br/> Wizard",
+          "description": "Create engaging blog posts like a pro!"
+        },
+        {
+          "title": "Email <br /> Wizard",
+          "description": "Craft compelling emails effortlessly with optimal"
+        },
+        {
+          "title": "Ecommerce <br /> Wizard",
+          "description": "Boost your business and grow your revenue"
+        },
+        {
+          "title": "Startup <br /> Wizard",
+          "description": "Launch your business with confidence"
+        }
+      ]
+    },
+    "wizardDetails": [
+      {
+        "title": "Blog Wizard",
+        "description": "Our Blog Wizard utilizes advanced AI to generate search engine optimization and research, making the best use of keywords and SEO strategies to boost your Google searches and Google analytics and social media marketing tools. We leave no stone unturned. Our team will help you understand the requirements of your potential customers and give you the best brand experience with our strong text marketing strategies.",
+        "buttonText": "Get Started"
+      },
+      {
+        "title": "Email Wizard",
+        "description": "Want to have a thriving campaign in your email? Our skilled writers have analyzed the finest strategy behind its success. Our team is committed to providing exceptional email marketing services that will boost your open rates, click-through rates, and conversions with our wizard-like tools, automating email campaigns. Whether it's a newsletter, promotional emails, or customer acquisition, our skilled professionals are ready to assist you. With our innovative email marketing strategies and integration with your subscribers, fast provides your message and increased customer loyalty. Let our expertise help maximize your email campaign's potential and copy that captivates your audience.",
+        "buttonText": "Get Started"
+      },
+      {
+        "title": "Ecommerce Wizard",
+        "description": "From persuasive product descriptions to captivating pages on landing pages for your e-commerce websites! Our E-commerce Wizard is designed to help you create compelling content that will streamline the process of creating exceptional copy. Price sales and boost customer engagement easily. We are with our expertly specially crafted Product descriptions and landing page copy that will help your marketing. With our wizard, you can effortlessly create product titles, attractive descriptions, and our expert made persuasive copy that will drive your customers towards making a purchase decision.",
+        "buttonText": "Get Started"
+      },
+      {
+        "title": "Startup Wizard",
+        "description": "Need a pitch deck, business plan, or investor presentation for your startup? Our professional writers have designed the startup Writing Wizard to simplify everything. Our team of skilled writers understands the unique challenges and opportunities faced by startups. Don't put your business progress in jeopardy! Challenge your team with our comprehensive range of services. Access business plans and investor presentations, our startup wizard tool will boost your business and copy that optimizes your audience.",
+        "buttonText": "Get Started"
+      }
+    ],
+    "pricingSection": {
+      "title":"Ai writer services",
+      "buttonText":"Coming soon",
+      "plans": [
+        {
+          "package": "Free Plan",
+          "url": "/ai-writer/pad.webp",
+          "price": "0",
+          "data": [
+            {
+              "content": "100 free credits per lifetime",
+              "img": "/ai-writer/circle-dollar-sign.svg"
+            },
+            {
+              "content": "AI wizards",
+              "img": "/ai-writer/wand-sparkles.svg"
+            },
+            {
+              "content": "AI prompts",
+              "img": "/ai-writer/text.svg"
+            },
+            {
+              "content": "SEO-Optimized",
+              "img": "/ai-writer/search-check.svg"
+            },
+            {
+              "content": "Human-like-Written",
+              "img": "/ai-writer/pen-line.svg"
+            }
+          ]
+        },
+        {
+          "package": "Basic Plan",
+          "url": "/ai-writer/hammer.webp",
+          "price": "36",
+          "data": [
+            {
+              "content": "12,500 credits per month",
+              "img": "/ai-writer/circle-dollar-sign.svg"
+            },
+            {
+              "content": "AI wizards",
+              "img": "/ai-writer/wand-sparkles.svg"
+            },
+            {
+              "content": "AI prompts",
+              "img": "/ai-writer/text.svg"
+            },
+            {
+              "content": "SEO-Optimized",
+              "img": "/ai-writer/search-check.svg"
+            },
+            {
+              "content": "Human-like-Written",
+              "img": "/ai-writer/pen-line.svg"
+            },
+            {
+              "content": "10 Million words or 1250 images",
+              "img": "/ai-writer/image.svg"
+            },
+            {
+              "content": "AI prompts + templates",
+              "img": "/ai-writer/bot.svg"
+            }
+          ]
+        },
+        {
+          "package": "Premium Plan",
+          "url": "/ai-writer/chemical.webp",
+          "price": "47",
+          "data": [
+            {
+              "content": "17,000 credits per month",
+              "img": "/ai-writer/circle-dollar-sign.svg"
+            },
+            {
+              "content": "AI wizards",
+              "img": "/ai-writer/wand-sparkles.svg"
+            },
+            {
+              "content": "AI prompts",
+              "img": "/ai-writer/text.svg"
+            },
+            {
+              "content": "SEO-Optimized",
+              "img": "/ai-writer/search-check.svg"
+            },
+            {
+              "content": "Human-like-Written",
+              "img": "/ai-writer/pen-line.svg"
+            },
+            {
+              "content": "14 Million words or 1700 images",
+              "img": "/ai-writer/image.svg"
+            },
+            {
+              "content": "AI prompts + templates",
+              "img": "/ai-writer/bot.svg"
+            }
+          ]
+        }
+      ]
+    },
+    "faqSection": {
+      "title": "FAQ",
+      "subtitle": "Frequently Asked Questions",
+      "questions": [
+        {
+          "question": "How can I use AI.antsq.com to generate content?",
+          "answer": "You can use AI.antsq.com by accessing the writing app on their website and utilizing its features, which go beyond simple text generation, to create high-quality written content with stunning visuals and SEO optimization capabilities."
+        },
+        {
+          "question": "Can AI.antsq.com help me with optimizing my content for SEO ?",
+          "answer": "Yes, AI.antsq.com can help you optimize your content for SEO by generating high-quality written content that is relevant and engaging to your target audience, which can improve your search engine rankings."
+        },
+        {
+          "question": "What are the specific features of AI.antsq.com that go beyond simple text generation?",
+          "answer": "AI.antsq.com offers features that go beyond simple text generation, including the ability to generate visuals, optimize content for SEO, and seamlessly integrate with WordPress plugins. It is a comprehensive tool designed to enhance creativity, productivity, and content quality for bloggers, content creators, and digital marketers. "
+        },
+        {
+          "question": "AI.antsq.com powered by artificial intelligence?",
+          "answer": "Yes, AI.antsq.com is powered by advanced technologies like GPT-3 and DALL·E, which are artificial intelligence models designed for text generation and image generation respectively."
+        },
+        {
+          "question": "Can AI.antsq.com replace human content creators?",
+          "answer": "AI.antsq.com is designed to augment human creativity and productivity, but it is not meant to replace human content creators. It is a tool that can assist in content creation, but human creativity and expertise are still essential in producing high-quality content. "
+        }
+      ]
+    }
+  },
+  "AboutPage": {
+    "hero": {
+      "subtitle": "About",
+      "title": "Ants|Q|Colony",
+      "description": "Antsq, boasting years of expertise in social media management, digital strategy, services, and planning, is renowned for delivering outstanding results that elevate small businesses to new heights. Our expert team, much like a diligent ant colony, is skilled and passionate about working together to grow your business organically through targeted strategies and meticulous planning. We take pride in collaborating with small business brands and relish the opportunity to compete against giant competitors. Just like ants, we may be tiny but we possess superhuman strength.",
+      "buttonText": "Get Started"
+    },
+    "marketingSection": {
+      "description": "Exploring the world of business marketing can unlock exponential growth for your business. Just as ants thrive through cooperation and adaptability, Antsq harnesses its collective expertise to analyze and develop key strategies and plans that foster brand awareness and organic customer engagement. Our years of experience have equipped us to offer a diverse range of services, including Social Media Marketing, Search Engine Marketing, Email Marketing, Website Development, SEO, and Graphic Designing. At Antsq, we believe in working together like a well-coordinated colony, maximizing your business's potential to generate high conversions and impressive returns on investment."
+    },
+    "unitySection": {
+      "title": "Let's join forces like a united colony and achieve remarkable milestones together!"
+    },
+    "contactSection": {
+      "description": "If you have any queries, concerns, or would like a free consultation, don't hesitate to reach out to Antsq team. We are here to assist and guide you along your business journey, just as ants work together to support their community.",
+      "buttonText": "Contact us"
+    }
+  },
+  "ContactPage": {
+    "hero": {
+      "title": "Contact Us",
+      "description": "We'd love to hear from you — Let's grow together!",
+      "features": [
+        "Get a custom proposal tailored to your business.",
+        "Receive expert guidance on digital strategies.",
+        "Schedule a free discovery call with our team."
+      ],
+      "buttonText": "Start Now"
+    },
+    "contactForm": {
+      "fields": {
+        "firstName": {
+          "label": "First Name:",
+          "placeholder": ""
+        },
+        "lastName": {
+          "label": "Last Name:",
+          "placeholder": ""
+        },
+        "email": {
+          "label": "Email:",
+          "placeholder": ""
+        },
+        "phoneNumber": {
+          "label": "Phone Number:",
+          "placeholder": "+919988439448"
+        },
+        "message": {
+          "label": "Message:",
+          "placeholder": "I want to know about your custom web services."
+        }
+      },
+      "serviceOptions": {
+        "title": "Choose Service",
+        "options": [
+          "Business & Social Media Management",
+          "Search Engine Optimization",
+          "Brand Reputation Management",
+          "Email Marketing",
+          "Graphic Design",
+          "Web Development",
+          "Other"
+        ]
+      },
+      "submitButton": "Send Message | Sending message"
+    },
+    "contactInfo": {
+      "title": "CONTACT US",
+      "illustration": "ant_character_with_icons"
+    },
+    "socialSection": {
+      "title": "We are Social",
+      "platforms": ["facebook", "twitter", "linkedin", "instagram"]
+    },
+    "newsletter": {
+      "title": "Subscribe",
+      "description": "Don't miss out! Subscribe to our email list to stay in the loop",
+      "placeholder": "Email",
+      "buttonText": "Send"
+    },
+    "success":{
+      "title":"Form submitted Successfully!",
+      "description":"Thank you for sharing your details with us. We've received your information and our team will get back to you soon.",
+      "subtitle":"Return to home"
+    }
+  },
+  "navbar": {
+    "home": "Home",
+    "services": {
+      "title": "Services",
+      "content": {
+        "0": "Business Social Media Management",
+        "1": "Search Engine Optimization and Marketing",
+        "2": "Brand Reputation Management",
+        "3": "Digital Marketing",
+        "4": "Email Marketing",
+        "5": "Graphic Design",
+        "6": "Web Development"
+      }
+    },
+    "plansPricing": "Plans & Pricing",
+    "aiWriter": "AI Writer",
+    "about": {
+      "title": "About",
+      "content": {
+        "0": "AntsQ Colony",
+        "1": "Blog",
+        "2": "Contact Us"
+      }
+    },
+    "talkToUs":"Talk to us",
+    "loginButton": "Login / Signup",
+    "profile": {
+      "0": "Subscriptions",
+      "1": "Logout"
+    },
+    "dialog":{
+      "title":"Are you sure you want to logout ?",
+      "cancel":"Cancel",
+      "logout":"Logout"
+    },
+    "signin":"Sign in"
+  },
+  "footer":{
+    "description":"We are an expert team, skilled and passionate about our jobs in growing your business organically with key strategies and planning.",
+    "company":{
+      "title":"Company",
+      "content":{
+      "0":"Home",
+      "1":"Plans & Pricing",
+      "2":"About",
+      "3":"Blog",
+      "4":"Ai Writer",
+      "5":"Contact",
+      "6":"Rss"
+    }},
+    "services":{
+      "title":"Services",
+      "content":{
+        "0":"Business Social Media Management",
+        "1":"Search Engine Optimization and Marketing",
+        "2":"Brand Repuation Management",
+        "3":"Email Marketing",
+        "4":"Graphic Design",
+        "5":"Web Development"
+      }
+    },
+    "socialMedia":{
+      "title":"Social Media",
+      "subscribe":"Subscribe",
+      "description":"Don't miss out! Subscribe to our email list to stay in the loop",
+      "buttonText":"Send us"
+    }
+  },
+  "signupPage":{
+    "title": "Signup Now",
+    "subtitle": "Already have an account?",
+    "signInLink": "Signin",
+    "form": {
+      "fields": [
+        {
+          "label": "Name",
+          "placeholder": "Name"
+        },
+        {
+          "label": "Email",
+          "placeholder": "Email"
+        },
+        {
+          "label": "Password",
+          "placeholder": "Password"
+        }
+      ],
+      "submitButton": "Sign Up | Signing up"
+    }
+  },
+  "signinPage":{
+    "title": "Sign In",
+    "subtitle": "Welcome back! Please sign in.",
+    "form": {
+      "fields": [
+        {
+          "label": "Email",
+          "placeholder": "Email"
+        },
+        {
+          "label": "Password",
+          "placeholder": "Password"
+        }
+      ],
+      "submitButton": "Sign In | Signing in"
+    },
+    "noAccountText": "Don't have an account?",
+    "signUpLink": "Signup"
+  },
+  "webForm":{
+    "pageContent": {
+      "submissionStatus": {
+        "alreadySubmitted": {
+          "title": "You have already submitted the form.",
+          "subtitle": "Our team is reviewing your request, we will respond very soon."
+        },
+        "serverError": {
+          "message": "There was a problem with the server, please try after sometime."
+        }
+      },
+      "formContent": {
+        "headerSection": {
+          "title": "Tell us what you want.",
+          "subtitle": "Fill out the project brief form below and get a custom proposal within ",
+          "highlightedTime": "24 hours",
+          "subtitleEnd": "No obligations, just strategic insights tailored to your business goals."
+        },
+        "websiteType": {
+          "label": "Website Type",
+          "placeholder": "Eg: Ecommerce, Agency..",
+          "errorMessage": "Website type is required"
+        },
+        "reference": {
+          "label": "Reference / Competitor",
+          "placeholder": "Eg: WeMakeDevs.org, Myntra.com.."
+        },
+        "personalInformation": {
+          "title": "Let us know you better!",
+          "firstName": {
+            "label": "Name",
+            "placeholder": "Firstname",
+            "errorMessage": "First name is required"
+          },
+          "lastName": {
+            "label":"Last name",
+            "placeholder": "Lastname",
+            "errorMessage": "Last name is required"
+          },
+          "phoneNumber": {
+            "label": "Phone Number",
+            "placeholder": "(000) 000-0000",
+            "errorMessage": "Phone number is required"
+          },
+          "email": {
+            "label": "Email",
+            "placeholder": "example@example.com",
+            "errorMessage": "Email is required"
+          }
+        },
+        "brandInformation": {
+          "title": "Give us a gist of your brand!",
+          "brandName": {
+            "label": "Brand Name",
+            "errorMessage": "Brand name is required"
+          },
+          "brandAge": {
+            "label": "Brand Age",
+            "errorMessage": "Brand age is required"
+          },
+          "brandDescription": {
+            "label": "Brand Description",
+            "errorMessage": "Brand description is required"
+          }
+        },
+        "domainInformation": {
+          "question": "1. Do you have a Domain?",
+          "options": {
+            "yes": "Yes",
+            "no": "No"
+          },
+          "domainName": {
+            "label": "If yes, Domain Name",
+            "errorMessage": "Domain name is required if you have one"
+          },
+          "websitesUnderDomain": {
+            "label": "Websites Under Domain",
+            "errorMessage": "Websites under domain is required if you have one"
+          }
+        },
+        "hostingService": {
+          "question": "2. Do you have a hosting service?",
+          "options": {
+            "yes": "Yes",
+            "no": "No"
+          }
+        },
+        "logoNeeds": {
+          "question": "3. Do you need a logo to represent your brand?",
+          "options": {
+            "yes": "Yes",
+            "no": "No"
+          }
+        },
+        "categoryPages": {
+          "label": "4. Please provide the number of category pages that your website should have.",
+          "placeholder": "e.g., 10",
+          "errorMessage": "Category pages are required"
+        },
+        "contentNeeds": {
+          "question": "5. Do you need content for your website?",
+          "options": {
+            "yes": "Yes",
+            "no": "No"
+          }
+        },
+        "imageProvision": {
+          "question": "6. Will you be providing product images and descriptions for your website?",
+          "options": {
+            "yes": "Yes",
+            "no": "No"
+          }
+        },
+        "additionalRequirements": {
+          "label": "7. If you have any additional requirements for the website (color scheme, animations, etc.), Please let us know below.",
+          "placeholder": "Eg: I want my application to use native dependencies only..",
+          "errorMessage": "Additional requirements are required"
+        },
+        "budget": {
+          "label": "8. Please mention your budget.",
+          "placeholder": "Eg: $1000",
+          "errorMessage": "Budget is required"
+        },
+        "thankYouMessage": {
+          "title": "Thank you for sharing your preferences.",
+          "description": "Our team will shortly get in touch with you..",
+          "apiError": "Error while uploading movies"
+        },
+        "submitButton": {
+          "default": "Submit",
+          "submitting": "Submitting..."
+        }
+      },
+      "sidebarContent": {
+        "title": "Ready to Elevate Your Digital Presence?",
+        "subtitle": "Every great digital journey starts with a single click.",
+        "description": "Your website should be more than just an online brochure—it should be a complete digital ecosystem that powers your business growth, streamlines operations, and delights customers."
+      }
+    }
+  },
+  "webformSuccess":{
+    "title": "Form Submitted Successfully!",
+    "description": "Thank you for sharing your requirements with us. We've received your information and our team will get back to you soon.",
+    "buttonText": "Return to home"
+  }
+}

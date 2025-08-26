@@ -1,0 +1,1775 @@
+{
+  "homePage": {
+    "hero": {
+      "title1": "Descubra el poder de los ",
+      "title2": "servicios de Marketing Digital.",
+      "subtitle": "Impulse la presencia y el alcance en línea con nuestros servicios profesionales de marketing digital. La estrategia personalizada se alinea con los objetivos comerciales y muestra la voz única de la marca. Permítanos ayudar a aumentar la base de clientes y tener éxito.",
+      "buttonText": "Empezar"
+    },
+    "boxSection": {
+      "title": "Servicios de Marketing Digital | hechos de forma inteligente.",
+      "sideHead": "Solo el 58% de las empresas son lo suficientemente inteligentes como para utilizar la Estrategia y los Servicios Digitales para establecer su marca.",
+      "sideDescription": "¿Es usted una de ellas?",
+        "cards": {
+          "0": {
+            "title": "Gestión de Redes Sociales Empresariales",
+            "description": "Nuestra agencia ayuda a las empresas a adquirir clientes potenciales de por vida con publicaciones atractivas e interactivas. Nuestros servicios incluyen contenido de alto valor para atraer y retener clientes para su marca.",
+            "buttonText": "Explorar"
+          },
+          "1": {
+            "title": "Diseño Gráfico",
+            "description": "Trabaje con nuestro Equipo de Diseño, que aporta creatividad e innovación en logotipos, gráficos y videos, tarjetas de presentación y folletos que harán que su marca se destaque.",
+            "buttonText": "Explorar"
+          },
+          "2": {
+            "title": "Optimización SEO",
+            "description": "Nuestros expertos en marketing saben que el marketing optimizado y el SEO son la estrategia clave para un crecimiento orgánico a largo plazo que atraerá tráfico potencial a sus sitios.",
+            "buttonText": "Explorar"
+          }
+      }
+    },
+    "explanatory": {
+      "title": "Somos un equipo profesional apasionado y experimentado",
+      "description": "Antsq, con años de experiencia en | Servicios de Marketing Digital |, estrategia digital, servicios y planificación, es conocido por sus resultados al elevar pequeñas empresas al siguiente nivel. Somos un equipo experto, capacitado y apasionado por nuestro trabajo en hacer crecer tu negocio de forma orgánica con estrategias clave y planificación. ¡Nos encanta trabajar con pequeñas marcas y competir con grandes competidores! ¡Somos pequeños y aun así poseemos una fuerza sobrehumana como una hormiga!",
+      "buttonText": "Empezar"
+    },
+    "midSection": {
+      "title": "¿Cómo AntsQ se destaca de los demás?",
+      "cards": [
+        {
+          "title": "Conjunto de habilidades inteligentes y de alto rendimiento",
+          "description": "Nuestro equipo de expertos tiene las estrategias y la determinación adecuadas para ayudar a las pequeñas empresas a crecer y tener éxito. Nos encanta convertir pequeñas empresas en marcas potenciales con valores añadidos."
+        },
+        {
+          "title": "Servicios de Marketing Digital",
+          "description": "Le ayudamos a analizar y elegir las mejores estrategias de marketing y necesidades de marca para que usted y su negocio crezcan. ¡Entendemos mejor sus necesidades y requisitos!"
+        },
+        {
+          "title": "Experiencia Experta",
+          "description": "Nuestros años de experiencia experta le proporcionarán servicios completos, incluyendo desarrollo web, SEO, diseño gráfico y videografía, que llevarán su marca al siguiente nivel."
+        }
+      ]
+    },
+    "whatWeDo": {
+      "title": "LO QUE HACEMOS",
+        "flexItems": {
+          "0": {
+            "title": "Marketing en Redes Sociales",
+            "description": "Nuestros expertos en negocios crean publicaciones atractivas e interactivas que redefinen la marca y crean un flujo de clientes potenciales de por vida que aportan valor.",
+            "buttonText": "Saber más"
+          },
+          "1": {
+            "title": "Contenido optimizado para SEO",
+            "description": "El SEO consiste en atraer audiencias potenciales y específicas al lugar correcto y crear conciencia de marca sin ser promocional. ¡Antsq puede gestionar su optimización SEO de la manera más inteligente posible!",
+            "buttonText": "Saber más"
+          },
+          "2": {
+            "title": "Gestión de la Reputación de Marca",
+            "description": "Una reputación online positiva aumenta su rentabilidad al atraer inversores y clientes adicionales. Por otro lado, una reputación online negativa tiene un impacto en la imagen de marca de su empresa, su comercialización, su crecimiento en internet y sus ingresos.",
+            "buttonText": "Saber más"
+          },
+          "3": {
+            "title": "Marketing por Correo Electrónico",
+            "description": "Nuestros profesionales brindan servicios de marketing por correo electrónico que involucran a sus clientes objetivo y convierten los clientes potenciales en conversiones en lugar de que los correos electrónicos terminen directamente en su papelera.",
+            "buttonText": "Saber más"
+          },
+          "4": {
+            "title": "Diseño Gráfico",
+            "description": "El diseño es un arte estético que capta la atención. Los creadores de AntsQ utilizan herramientas y software de alta gama para diseñar imágenes de marca, elementos visuales, gráficos y mucho más para construir su negocio.",
+            "buttonText": "Saber más"
+          },
+          "5": {
+            "title": "Desarrollo Web",
+            "description": "El sitio web es un factor clave para mostrar su negocio y marca. Construimos todo, desde páginas de destino hasta sitios web de comercio electrónico y brindamos la mejor experiencia de usuario e interfaz.",
+            "buttonText": "Saber más"
+          }
+        }
+      },
+      "footerBanner": {
+      "title": "¿LISTO PARA HACER CRECER SU NEGOCIO?",
+      "description": "Contáctenos para trabajar con una agencia de marketing digital orientada a resultados",
+      "button1": "Empezar",
+      "button2": "Ver Precios"
+  }
+    },
+  "business": {
+    "hero": {
+      "popupText": "Lo que mejor hacemos",
+      "title": "Cree su propia Obra Maestra Web",
+      "subtitle": "El equipo de AntsQ de analistas, gerentes y diseñadores de redes sociales utiliza su experiencia, creatividad y pasión para desarrollar la mejor estrategia para su marca y negocio. Estamos equipados con las herramientas y trucos adecuados para crear publicaciones y anuncios atractivos que se dirigen a audiencias potenciales y tráfico orgánico de calidad.",
+      "buttonText": "PERMÍTANOS AYUDARLE A CONQUISTAR LAS REDES SOCIALES"
+    },
+    "cardSection": {
+      "heading":"Soluciones personalizadas para su crecimiento",
+      "0":{
+        "title": "Gestión de | Perfiles",
+        "description": "Hay casi 200 millones de perfiles de negocios en Instagram y Facebook. Hacemos que su negocio y marca se destaquen de sus competidores utilizando estrategias de publicidad clave y herramientas analíticas para dirigirse a audiencias de micro-nicho con las que desea interactuar.",
+        "buttonText": "Empezar"
+      },
+      "1":{
+        "title": "Retorno de | la Inversión",
+        "description": "Ofrecemos análisis mensuales e informes detallados sobre la demografía de los usuarios, las estadísticas de participación y las adquisiciones basadas en el plan de publicidad de pago por clic incorporado de Instagram que convierte los clientes potenciales en conversiones.",
+        "buttonText": "Empezar"
+      },
+      "2":{
+        "title": "Planificación y Estrategia",
+        "description": "La planificación y las estrategias son factores dinámicos que pueden construir negocios potenciales si se hacen de manera inteligente. Resumiendo el informe analítico, establecemos estrategias de marketing que aseguran el crecimiento del negocio y un gran retorno de su inversión.",
+        "buttonText": "Empezar"
+      }
+    },
+    "newsLetter": {
+      "title": "Suscribirse al boletín",
+      "description": "El negocio es la actividad de ganarse la vida o ganar dinero produciendo o comprando y vendiendo productos. En pocas palabras, es cualquier actividad o empresa con fines de lucro.",
+      "namePlaceholder": "Nombre",
+      "emailPlaceholder": "Correo electrónico",
+      "buttonText": "Suscribirse ahora"
+    }
+  },
+  "seo": {
+    "hero": {
+      "title": "SEM y SEO son más | que posicionarse en Google.",
+      "subtitle1": "Cuando sus competidores están clasificados justo a su lado, ganar el negocio se reduce a quién su cliente ve, conoce y confía más.",
+      "subtitle2": "Eso significa ser descubierto constantemente en cada espacio donde sus clientes potenciales buscan, aprenden y compran. Significa ser creativo y audaz con su estrategia de SEO. | Es por eso que el equipo de SEO de Power Digital encuentra oportunidades que sus competidores pierden para elaborar estrategias que impulsan triunfos a corto plazo mientras construyen un crecimiento a largo plazo.",
+      "buttonText": "Empezar",
+      "rightSideTitle": "Cuando eres visible en cada etapa, desde la consideración hasta la compra, podrás:",
+  "rightSubTitles": {
+    "0": "Aumentar la visibilidad y la confianza",
+    "1": "Generar clientes potenciales calificados para ventas",
+    "2": "Reducir los costos de adquisición"
+  }
+    },
+    "explanatory": {
+      "title1": "“La publicidad online en motores de búsqueda y redes sociales ha demostrado ser el formato publicitario más popular, generando un alto potencial de clientes y conversiones. Con los expertos, analistas y mejores prácticas adecuados, se pueden explorar vastas oportunidades en el marketing online para expandir negocios y marcas utilizando SEO y SEM. Los profesionales de marketing de motores de búsqueda de AntsQ simplifican los misterios del marketing online que mejor se adaptan a su negocio.”",
+      "title2": "¡Nos preocupamos por sus estrategias de marketing, dejándole tiempo para centrarse en su próximo hito importante!"
+    },
+    "cardSection": {
+      "title": "Cómo lo hacemos",
+      "cards": {
+        "0":{
+          "title": "Asistente de Blog",
+          "description": "¿Necesita publicaciones de blog atractivas e informativas para su sitio web? Nuestros escritores expertos han diseñado el Asistente de Escritura de Blogs para facilitar la creación de contenido. Con nuestras publicaciones de blog optimizadas para SEO, puede atraer tráfico a su sitio web e involucrar a su audiencia, ayudándole a establecerse como una autoridad en su industria. Simplemente proporcione su tema o palabras clave, y deje que nuestro asistente haga su magia para entregar publicaciones de blog de alta calidad que resuenen con su audiencia.",
+          "buttonText": "Empezar"
+        },
+        "1":{
+          "title": "Publicidad de Pago por Clic",
+          "description": "¡El marketing orgánico no le dará a su negocio suficientes objetivos! Aquí es donde intervenimos para ayudarle a satisfacer las necesidades y clientes potenciales adicionales en su camino de negocios. El equipo de expertos de AntsQ es lo suficientemente inteligente como para diseñar la campaña publicitaria más económica y amigable con los motores de búsqueda utilizando segmentación premium, técnicas de diseño de banners y redacción publicitaria.",
+          "buttonText": "Empezar"
+        },
+        "2":{
+          "title": "Optimización para Motores de Búsqueda",
+          "description": "Nuestros paneles de expertos bien actualizados utilizan su experiencia y conocimientos técnicos para mantener su campaña de SEO bien estructurada y adaptada a la audiencia, además de los últimos cambios algorítmicos en el SEO de Google. AntsQ se encarga de su posicionamiento y primer puesto en la clasificación SERP de forma orgánica.",
+          "buttonText": "Empezar"
+        },
+        "3":{
+          "title": "Informes Mensuales",
+          "description": "Nos destacamos de otras firmas de marketing porque AntsQ cree en un alto retorno de la inversión y en llevar sus negocios al siguiente nivel. Le proporcionamos informes mensuales simplificados sobre el rendimiento de su negocio, el crecimiento y las áreas clave en las que centrarse utilizando KPI, herramientas analíticas y software.",
+          "buttonText": "Empezar"
+        }
+      }
+    }
+  },
+  "brandReputationPage": {
+    "hero": {
+      "popupText": "¡Escuche lo que dicen sus clientes!",
+      "title": "Le ayudamos a controlar la reputación de su marca que habla por su negocio.",
+      "buttonText": "Nuestros Planes"
+    },
+    "servicesSection": {
+      "cards": {
+        "0":{
+          "title": "Gestión de la Reputación de Marca",
+          "description": "La reputación de una marca habla más fuerte que el negocio. ¡Nuestro equipo de profesionales de valor añadido le ayuda a mantenerse en su mejor momento! - necesidades a través de sus comentarios de más de 250 servicios de revisión digital y online, incluidos Google, Facebook, Bing y muchos más. Gestionamos sus listados de negocios que se clasifican más alto online y se hacen notar con cientos de brillantes reseñas online. Programe una demostración con AntsQ hoy para experimentar un flujo de trabajo fácil y gratuito.",
+          "buttonText": "Solicitar un Presupuesto"
+        },
+        "1":{
+          "title": "Listados",
+          "description": "AntsQ hará que la gestión de sus listados de negocios sea perfecta, lo que gestiona sin problemas las actualizaciones y le lleva a la cima. Haga que su marca se clasifique más alto en el dominio online. Nuestras herramientas y software que navegan la información de su negocio a sus negocios y perfiles para asegurar sus listados compatibles. ¡AntsQ está aquí para facilitar el desorden de su vida. Optimice para Google, Facebook y Bing optimizando los requisitos específicos de sus clientes potenciales!",
+          "buttonText": "Solicitar un Presupuesto"
+        },
+        "2":{
+          "title": "Reseñas",
+          "description": "El 31% de los clientes gastan en servicios y productos, ya que las empresas y marcas que resuenan profundamente con las reseñas de perfil. AntsQ apoya su negocio en el monitoreo, marketing y generación de reseñas de clientes. Hacemos hincapié en cada estudio dinámico que impulsa su SEO y ganancias, lo que le hace destacar de sus competidores. ¡AntsQ se asegura de que maneje todos sus pensamientos en un espacio simple y organizado!",
+          "buttonText": "Solicitar un Presupuesto"
+        }
+      }
+    },
+    "explanatorySection": {
+      "subtitle": "Diseñe su Marca para Crear una Identidad Comercial Sostenible y Confiable",
+      "title": "¿Qué es la Reputación de Marca Online?",
+      "description": "¿Qué es la reputación de una marca online? La percepción general de su organización, productos y servicios que tiene el público en general como resultado de su presencia online y las reseñas de reputación se conoce como la reputación online de su marca. El factor que determina cómo todo el mercado ve su marca, desde sus empleados, inversores y socios hasta sus prospectos y clientes, es su reputación en internet.",
+      "additionalText": "Una reputación online positiva aumenta su rentabilidad al atraer inversores y clientes adicionales. Por otro lado, una reputación online negativa tiene un impacto en la imagen de marca de su empresa, su comercialización, su crecimiento en internet y sus ingresos."
+    },
+    "processSection": {
+      "title": "¿Listo para construir su reputación online? Impulse la gestión de la reputación de su negocio con estas mejores prácticas de reputación en internet:",
+      "steps": [
+        {
+          "title": "Monitoree y Analice su Presencia Digital",
+          "description": ""
+        },
+        {
+          "title": "Configure su Listado Online",
+          "description": ""
+        },
+        {
+          "title": "Cree su Plan de Gestión de la Reputación de Marca",
+          "description": ""
+        },
+        {
+          "title": "Genere Reseñas Positivas",
+          "description": ""
+        },
+        {
+          "title": "Interactúe con su Audiencia",
+          "description": ""
+        }
+      ]
+    },
+    "closingSection": {
+      "description": "Las redes sociales han sido un aspecto significativo del dominio digital y online, construyendo y generando negocios y productos. Atrás quedaron los días en que las empresas tenían que marcar su presencia física entre la comunidad. Le ayudamos a establecer su presencia y reputación online para hacer crecer sus negocios."
+    }
+  },
+  "digitalMarketingPage": {
+    "hero": {
+      "title": "Marketing Digital Impulsado por IA que Genera Resultados Reales",
+      "description": "El SEO tradicional ha muerto. En 2025, ganar visibilidad online requiere estrategias impulsadas por IA que se adapten en tiempo real a los cambios de algoritmo, predigan el comportamiento del usuario y optimicen simultáneamente cientos de factores de clasificación.",
+      "stats": {
+        "0":{
+          "value": "3x",
+          "label": "Clasificaciones más rápidas"
+        },
+        "1":{
+          "value": "5x",
+          "label": "Más clientes potenciales calificados"
+        },
+        "2":{
+          "value": "60%",
+          "label": "Reducción de costos"
+        },
+        "3":{
+          "value": "24/7",
+          "label": "Optimización de IA"
+        }
+      },
+      "buttons": {
+        "0":{
+          "text": "Precios y Planes",
+          "type": "primary"
+        },
+        "1":{
+          "text": "Solicitar una demostración",
+          "type": "secondary"
+        }
+      }
+    },
+    "marketingIntelligence": {
+      "title": "Inteligencia de Marketing",
+      "badge": "Impulsado por IA",
+      "metrics": {
+        "0":{
+          "label": "Puntuación SEO",
+          "value": "94/100",
+          "change": "+12%",
+          "changeType": "positive"
+        },
+        "1":{
+          "label": "Calidad de Leads",
+          "value": "87%",
+          "change": "+23%",
+          "changeType": "positive"
+        },
+        "2":{
+          "label": "Pronóstico de ROI",
+          "value": "312%",
+          "change": "+45%",
+          "changeType": "positive"
+        }
+      },
+      "note": "Analizando más de 10,000 puntos de datos por segundo"
+    },
+    "whyChooseSection": {
+      "title": "¿Por qué elegir el Marketing de IA de AntsQ?",
+      "subtitle": "Vamos más allá de la automatización: implementamos sistemas inteligentes que se adaptan, aprenden e impulsan el rendimiento del marketing de forma autónoma.",
+      "features": {
+        "0":{
+          "title": "Adaptación en tiempo real",
+          "description": "Nuestra IA monitorea continuamente las actualizaciones de algoritmos y ajusta las estrategias sobre la marcha."
+        },
+        "1":{
+          "title": "Segmentación predictiva",
+          "description": "Predecimos el comportamiento de la audiencia para lanzar campañas en el momento perfecto."
+        },
+        "2":{
+          "title": "Escalado autónomo",
+          "description": "Sus campañas publicitarias escalan de forma inteligente según el presupuesto, el ROI y la dinámica del mercado."
+        }
+      }
+    },
+    "resultsSection": {
+      "title": "Confiado por Marcas que Quieren Resultados",
+      "stats": {
+        "0":{
+          "value": "+10k",
+          "label": "Visitas mensuales obtenidas"
+        },
+        "1":{
+          "value": "+900%",
+          "label": "Aumento promedio del ROI"
+        },
+        "2":{
+          "value": "70+",
+          "label": "Historias de éxito de clientes"
+        },
+        "3":{
+          "value": "98%",
+          "label": "Tasa de retención"
+        }
+      }
+    }
+  },
+  "EmailMarketingPage": {
+    "hero": {
+      "subTitle":"Haz crecer tu base de clientes con Advanced",
+      "title": "Servicios de Marketing por Correo Electrónico",
+      "description": "El email marketing tiene un retorno alto: 36 dólares por cada 1 invertido. Se acabaron los métodos antiguos y lentos para hacer crecer tu negocio o marca. Antsq llega para innovar y escalar tu empresa. Nuestros profesionales te ayudarán a lograrlo.",
+      "buttonText": "Empezar"
+    },
+    "whatIsSection": {
+      "title": "¿Qué es el Marketing | por Correo Electrónico?",
+      "description": "El marketing por correo electrónico es una estrategia de marketing digital utilizada por miles de empresas en todo el mundo para crear reconocimiento de marca, impulsar las ventas y construir relaciones con los clientes. Las empresas de marketing por correo electrónico aprovechan diferentes proveedores de servicios de correo electrónico (ESP) para enviar correos electrónicos de marketing automatizados y personalizados que contienen promociones y anuncios de marca. Cualquier cosa, desde boletines semanales por correo electrónico y alertas promocionales hasta formularios de encuestas de clientes e invitaciones a eventos, puede considerarse una forma de marketing por correo electrónico."
+    },
+    "needSection": {
+      "title": "La necesidad del Marketing por Correo Electrónico",
+      "description": "La participación en redes sociales y el marketing por correo electrónico son estrategias rápidas para ayudar a elevar la presencia de pequeñas empresas y marcas en el dominio online a través de enfoques, análisis y herramientas de marketing online estratégicos. Las campañas de correo electrónico bien planificadas y oportunas pueden recordar a su público objetivo las ofertas y servicios excéntricos que ofrece a intervalos periódicos. El camino fácil atrae a más audiencias: el marketing por correo electrónico proporciona una forma fácil de descubrir beneficios para audiencias potenciales, lo que lleva a más conversiones. AntsQ hace exactamente esto para marcar su presencia entre sus competidores."
+    },
+    "reachCustomersSection": {
+      "title": "Llegue a sus Clientes",
+      "description": "La idea de llegar a sus clientes está ahora online, directamente a través de su buzón de correo electrónico. AntsQ Marketing puede ayudarle a llegar a sus clientes potenciales e involucrar campañas de marketing por correo electrónico con delicadeza y estrategia de presentación. Ahora, no más correos electrónicos en el bucle interminable de spam."
+    },
+    "marketingEmailsSection": {
+      "title": "Envíe solo los correos electrónicos de marketing que sus clientes estarán interesados en leer.",
+      "description": "Sus consumidores reciben un aluvión de correos electrónicos de marketing todos los días, todos compitiendo por su atención. ¿A dónde va la mayoría de ellos? Al espacio vacío de 'no leídos' o a los archivos durante años, aunque no tiene por qué ser así. Según la DMA, los correos electrónicos promocionales tienen la capacidad de proporcionar un ROI promedio del 122% cuando se hacen correctamente. Pero es difícil 'hacerlo correctamente'. Afortunadamente, no tendrá que entender la distinción entre un 'correo basura' y un correo 'oh, SÍ' porque nosotros sí."
+    },
+    "benefitsSection": {
+      "title": "Además, cuando trabaje con AntsQ para el marketing por correo electrónico, comenzará a enviar correos electrónicos que:",
+      "benefits": [
+        {
+          "title": "Nutrir Leads de Tibios a Calientes",
+          "description": ""
+        },
+        {
+          "title": "Construir Confianza y Credibilidad",
+          "description": ""
+        },
+        {
+          "title": "Generar Ventas como una Máquina",
+          "description": ""
+        }
+      ]
+    },
+    "ctaSection": {
+      "title": "¿LISTO PARA HACER CRECER SU NEGOCIO?",
+      "description": "Contáctenos para trabajar con una agencia de marketing digital orientada a resultados",
+      "buttons": [
+        {
+          "text": "Empezar",
+          "type": "primary"
+        },
+        {
+          "text": "Ver Precios",
+          "type": "secondary"
+        }
+      ]
+    }
+  },
+  "graphicDesign": {
+    "hero": {
+      "subtitle": "Lo que mejor hacemos",
+      "title": "Soluciones de Diseño para Marcas Inspiradoras",
+      "description": "Podemos publicar imágenes impresionantes con el servicio de nuestro equipo gráfico experto. Al combinar sus imágenes de presupuesto con nuestros servicios de diseño gráfico, puede elevar la calidad de las interacciones que sus clientes tienen con su marca.",
+      "additionalText": "¿Preparado para mejorar? Seguramente podemos ayudar.",
+      "buttonText": "Empezar hoy"
+    },
+    "brandLifeSection": {
+      "title": "Con nuestro trabajo meticuloso, daremos vida a su marca.",
+      "description": "Comienza a trabajar con nuestro equipo de diseño, que aporta creatividad e innovación en logotipos, gráficos y videos, | tarjetas de presentación y folletos que harán destacar tu marca usando herramientas clave como Adobe Illustrator, | InDesign, Photoshop, AfterEffects y muchas más."
+    },
+    "featuresSection": {
+      "features": {
+        "0":{
+          "title": "Funcional pero elegante",
+          "description": "Nuestro objetivo es producir un sitio web altamente funcional sin comprometer al usuario que lidera los objetivos de su empresa. El diseño de nuestro sitio web es sólido y se actualiza para mejorar su negocio."
+        },
+        "1":{
+          "title": "Altamente innovador",
+          "description": "Nuestro equipo es consciente de que el verdadero éxito del sitio digital está directamente ligado a la innovación del diseño. Por lo tanto, crear un diseño web altamente innovador para usted es nuestra máxima prioridad."
+        },
+        "2":{
+          "title": "Coherencia",
+          "description": "Al diseñar un sitio web, nos centramos en mantener la uniformidad con un enfoque extremadamente profesional. El contenido creado por nuestros diseñadores estará en línea con sus objetivos y contenido."
+        },
+        "3":{
+          "title": "Creativo",
+          "description": "Sin los componentes creativos, el diseño web no es nada. Nuestro objetivo principal es diseñar sitios web creativos, o para darle un resultado, nos mantenemos en el rumbo y seguimos creando diseños web innovadores."
+        },
+        "4":{
+          "title": "Navegación sencilla",
+          "description": "Nuestra área de especialización es la creación de diseños web bien estructurados, sencillos y fáciles de usar para que su sitio web reciba cada vez más visitantes si la navegación es sencilla."
+        },
+        "5":{
+          "title": "Único, fresco y optimizado",
+          "description": "Nuestros diseños suelen verse especiales online y están extremadamente centrados en el cliente. Puede esperar destacarse de sus rivales. Como resultado, puede confiar en nuestro diseño de sitio web moderno y optimizado para superar a sus rivales."
+        }
+      }
+    },
+    "capabilitiesSection": {
+      "title": "Numerosas capacidades de diseño alojadas bajo un mismo edificio",
+      "description": "La comunidad global de Superside de diseñadores gráficos de primer nivel puede crear lo que necesite en términos de servicios de diseño gráfico, como ilustraciones increíbles, diseños de impresión impresionantes o experiencias digitales cautivadoras. Reclute un super equipo de especialistas para manejar cualquier tipo de diseño gráfico que pueda necesitar.",
+      "servicesSlider": {
+        "0": {
+          "title": "Diseño publicitario y creativo",
+          "content": "Obtén ideas, conceptos y variaciones para anuncios estáticos y en movimiento para mejorar tus resultados. Conecta a tu equipo de marketing con un equipo de diseño completo y proporciona creatividad publicitaria constante a tus campañas.",
+          "src": "/graphic-design/design1.webp"
+        },
+        "1": {
+          "title": "Diseño y creatividad para redes sociales",
+          "content": "Consigue diseños originales para tus plataformas sociales. Un equipo completo de diseñadores creará el mejor contenido visual para impulsar tu marketing, ya sea estático, animado o en video, en Instagram, YouTube o Facebook.",
+          "src": "/graphic-design/design2.jpeg"
+        },
+        "2": {
+          "title": "Diseño de presentaciones",
+          "content": "Obtén diseños originales para tus presentaciones en PowerPoint, presentaciones de ventas o pitch decks. Tanto startups como empresas en crecimiento confían en Superside para crear presentaciones personalizadas o adaptar las existentes.",
+          "src": "/graphic-design/design3.png"
+        },
+        "3": {
+          "title": "Diseño de páginas de destino",
+          "content": "Crea páginas de destino desde cero o basadas en contenido ya publicado. Ofrecemos diseños de interfaz de alta fidelidad y wireframes UX bien pensados. Obtén los diseños innovadores que tu empresa necesita para aumentar las conversiones.",
+          "src": "/graphic-design/design4.jpeg"
+        },
+        "4": {
+          "title": "Servicios de diseño de correos electrónicos",
+          "content": "Atrae a tu audiencia con diseños originales de correos, plantillas y contenido creativo. Renueva tus comunicaciones y accede a un equipo de diseñadores de alto nivel para diseñar campañas de correo realistas.",
+          "src": "/graphic-design/design5.jpeg"
+        },
+        "5": {
+          "title": "Diseño de ilustraciones",
+          "content": "Obtén ilustraciones personalizadas y coherentes con tu marca para campañas de marketing o uso empresarial. Integra un equipo de diseño completo para aprovechar la experiencia en ilustración que tu empresa necesita.",
+          "src": "/graphic-design/design6.png"
+        },
+        "6": {
+          "title": "Servicios de branding",
+          "content": "Accede al conocimiento de marca que necesitas, desde la creación de identidad hasta estrategias personalizadas. Colabora con un equipo completo de expertos para desarrollar o mejorar una identidad de marca inolvidable.",
+          "src": "/graphic-design/design7.jpeg"
+        },
+        "7": {
+          "title": "Diseño editorial e impreso",
+          "content": "Obtén diseños impresos personalizados para portadas de libros, revistas, carteles o volantes que capten la atención de tu audiencia. Incorpora un equipo de diseño dedicado para crear solo materiales impresos de la más alta calidad.",
+          "src": "/graphic-design/design8.jpeg"
+        }
+      },      
+      "buttonText": "Reservar una llamada"
+    },
+    "processSection": {
+      "title": "Nuestro proceso de diseño web impulsado por un propósito",
+      "steps": {
+        "0":{
+          "number": "01",
+          "title": "Introducción",
+          "description": "Tenga una conversación con nuestro equipo de diseño para que nuestros profesionales muestren sus ideas y requisitos para su sitio web."
+        },
+        "1":{
+          "number": "02",
+          "title": "Creación",
+          "description": "El diseñador creará ideas de diseño personalizadas para su aprobación y modificaciones."
+        },
+        "2":{
+          "number": "03",
+          "title": "Derecha o Izquierda",
+          "description": "Después de su decisión, puede optar por enviar sus revisiones."
+        },
+        "3":{
+          "number": "04",
+          "title": "Producto Final",
+          "description": "¡Pida el Proyecto Final! Diseñado, probado y entregado con todas las revisiones e ideas requeridas especificadas."
+        }
+      }
+    },
+    "ctaSection": {
+      "title": "Diseños que no solo se ven bien, sino que hablan por usted",
+      "buttonText": "Empezar"
+    }
+  },
+  "webDevelopmentPage": {
+    "hero": {
+      "subtitle": "YENDO MÁS ALLÁ DE LO POSIBLE",
+      "title": "Desarrollo Web Impulsado por IA que Transforma Ideas en Realidad",
+      "description": "Desde el concepto hasta la implementación en tiempo récord. Aprovechamos las tecnologías de IA/ML de vanguardia para construir sitios web, aplicaciones web y plataformas SaaS impresionantes que escalan.",
+      "technologies": [
+        "Integración de IA/ML",
+        "Stack MERN",
+        "Java y .NET",
+        "Angular y React",
+        "WordPress Pro",
+        "Soluciones SaaS"
+      ],
+      "buttons": {
+        "0":{
+          "text": "Programar una demostración",
+          "type": "primary"
+        },
+        "1":{
+          "text": "Ver Servicios",
+          "type": "secondary"
+        }
+      }
+    },
+    "servicesSection": {
+      "title": "Servicios de Desarrollo Revolucionarios",
+      "subtitle": "Aproveche el poder de la IA y las pilas tecnológicas modernas para construir experiencias digitales excepcionales que impulsen el crecimiento y la innovación.",
+      "services": {
+        "0":{
+          "title": "Desarrollo Impulsado por IA",
+          "description": "Aproveche el aprendizaje automático para la generación inteligente de código, pruebas automatizadas y optimización inteligente.",
+          "features": [
+            "Generación automática de código",
+            "Detección inteligente de errores",
+            "Optimización del rendimiento",
+            "Integración de análisis predictivos"
+          ]
+        },
+        "1":{
+          "title": "Desarrollo Rápido de SaaS",
+          "description": "Soluciones SaaS de extremo a extremo con gestión de usuarios, análisis y arquitectura escalable.",
+          "features": [
+            "Arquitectura multi-inquilino",
+            "Integración de pagos",
+            "Análisis en tiempo real",
+            "Integración de API"
+          ]
+        },
+        "2":{
+          "title": "Sistemas de Diseño Inteligentes",
+          "description": "Diseño asistido por IA que crea interfaces coherentes, accesibles y hermosas.",
+          "features": [
+            "Variaciones de diseño generadas por IA",
+            "Cumplimiento de accesibilidad",
+            "Optimización receptiva",
+            "Cumplimiento de usabilidad"
+          ]
+        },
+        "3":{
+          "title": "Excelencia Full-Stack",
+          "description": "Soluciones web completas utilizando MERN, Java, .NET, Angular y más, todas listas para la nube y escalables.",
+          "features": [
+            "Arquitectura de microservicios",
+            "Desarrollo nativo de la nube",
+            "Funciones en tiempo real",
+            "Prácticas de seguridad primero"
+          ]
+        },
+        "4":{
+          "title": "Optimización Basada en Datos",
+          "description": "Análisis avanzados e insights impulsados por ML que elevan continuamente el rendimiento y la UX.",
+          "features": [
+            "Análisis del comportamiento del usuario",
+            "Monitoreo del rendimiento",
+            "Insights predictivos"
+          ]
+        },
+        "5":{
+          "title": "Mejora de WordPress con IA",
+          "description": "Eleve WordPress con automatización inteligente, SEO y mejoras de rendimiento.",
+          "features": [
+            "Plugins de IA personalizados",
+            "Optimización automática de contenido",
+            "Integración avanzada de SEO",
+            "Aceleración del rendimiento"
+          ]
+        }
+      }
+    },
+    "processSection": {
+      "title": "Nuestro Proceso Acelerado por IA",
+      "subtitle": "Desde la ideación hasta la implementación, nuestro flujo de trabajo inteligente garantiza una entrega rápida sin comprometer la calidad.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Descubrimiento Impulsado por IA",
+          "description": "Utilizamos análisis avanzados para comprender su mercado y generar especificaciones de proyectos en horas."
+        },
+        {
+          "number": "02",
+          "title": "Arquitectura Inteligente",
+          "description": "Nuestra IA recomienda la mejor pila tecnológica y diseño según sus necesidades específicas."
+        },
+        {
+          "number": "03",
+          "title": "Desarrollo Acelerado",
+          "description": "Codificación y pruebas asistidas por IA para entregar aplicaciones de calidad hasta 3 veces más rápido."
+        },
+        {
+          "number": "04",
+          "title": "Optimización Inteligente",
+          "description": "El monitoreo continuo de la IA garantiza el máximo rendimiento y seguridad desde el primer día."
+        },
+        {
+          "number": "05",
+          "title": "Lanzamiento y Escalado",
+          "description": "Implementación sin problemas con escalado y análisis. Listo para crecer desde el primer día."
+        }
+      ]
+    }
+  },
+  "pricingPage": {
+    "hero": {
+      "title": "Precios",
+      "subtitle": "Elija el Plan Adecuado para Usted",
+      "description": "Nuestro dedicado gerente de redes sociales manejará su negocio con las mejores estrategias publicitarias. Una técnica de marketing digital que genera resultados para su negocio.",
+      "additionalText": "Descubra nuestros planes de precios asequibles",
+      "note": "Explore nuestros planes y elija el suyo"
+    },
+    "socialMediaSection": {
+      "title": "Servicios de Gestión de Redes Sociales (SMM)",
+      "subtitle": "Elija un plan, nosotros nos encargamos del resto.",
+      "buttonText": ["Mensual","Anual"],
+      "discount": "Obtenga un <bold>20%</bold> de descuento en el plan anual",
+      "planTypes": {
+        "starterPackage": {
+          "header": {
+            "ant": "Hormiga de fuego",
+            "package": "Paquete de inicio",
+            "subTitle": "Herramientas de marketing esenciales",
+            "description": "SMM básico",
+            "monthlyPrice": "575",
+            "yearlyPrice": "6210",
+            "buttonText": "Registrarse ahora",
+            "url": "/plans-pricing/fire-ant.png",
+            "actualPrice": "575",
+            "actualYearlyPrice": "6210",
+            "discount": "27"
+          },
+          "data": [
+            {
+              "content": "Evaluación del rendimiento de la página/canal",
+              "img": "/plans-pricing/page-channel.svg",
+              "tooltipContent": "Análisis regular para evaluar y mejorar el rendimiento de su página o canal."
+            },
+            {
+              "content": "Configuración y gestión de la plataforma de redes sociales",
+              "img": "/plans-pricing/page-channel.svg",
+              "tooltipContent": "Configuración completa y gestión continua de sus perfiles de redes sociales."
+            },
+            {
+              "content": "2 publicaciones/semana en 4 plataformas (Instagram, Facebook, Twitter + 1 plataforma de su elección)",
+              "img": "/plans-pricing/2-high-quality.svg",
+              "tooltipContent": "2 publicaciones por semana en Instagram, Facebook, Twitter y una plataforma adicional de su elección."
+            },
+            {
+              "content": "1 blog SEO/mes (1,000 palabras)",
+              "img": "/plans-pricing/seo-notes.svg",
+              "tooltipContent": "Un blog optimizado para SEO de 1,000 palabras entregado cada mes para impulsar el ranking de búsqueda."
+            },
+            {
+              "content": "Hasta 5 historias de Instagram o Facebook/mes",
+              "img": "/plans-pricing/upload.svg",
+              "tooltipContent": "Obtenga hasta 5 historias atractivas de Instagram o Facebook cada mes para mejorar la visibilidad."
+            },
+            {
+              "content": "Aprobación y edición de publicaciones antes de su publicación",
+              "img": "/plans-pricing/approval-list.svg",
+              "tooltipContent": "Las publicaciones se compartirán para su aprobación y se editarán según sea necesario antes de publicarlas."
+            },
+            {
+              "content": "Panel de control de análisis mensual para monitorear el rendimiento",
+              "img": "/plans-pricing/monthly-analytics.svg",
+              "tooltipContent": "Acceda a un panel de control mensual para rastrear y analizar el rendimiento de la campaña."
+            },
+            {
+              "content": "Uso de hashtags para aumentar la visibilidad y el compromiso",
+              "img": "/plans-pricing/hashtags.svg",
+              "tooltipContent": "Uso estratégico de hashtags para aumentar el alcance de las publicaciones y el compromiso de la audiencia."
+            },
+            {
+              "content": "Calendario de contenido para la planificación (Google Sheet)",
+              "img": "/plans-pricing/calendar.svg",
+              "tooltipContent": "Calendario de contenido organizado en Google Sheets para planificar las publicaciones con anticipación."
+            },
+            {
+              "content": "2 publicaciones complementarias para días especiales en un mes",
+              "img": "/plans-pricing/upload.svg",
+              "tooltipContent": "Incluye 2 publicaciones de bonificación cada mes para días y ocasiones especiales."
+            },
+            {
+              "content": "Soporte por correo electrónico y chat (48 horas - tiempo máximo de respuesta)",
+              "img": "/plans-pricing/slack.svg",
+              "tooltipContent": "Obtenga soporte por correo electrónico y chat con un tiempo máximo de respuesta de 48 horas."
+            },
+            {
+              "content": "Facturación mensual simple sin compromisos adicionales.",
+              "img": "/plans-pricing/calendar.svg",
+              "tooltipContent": "Pague mensualmente sin contratos a largo plazo ni tarifas ocultas."
+            }
+          ],
+          "id": "685bc06d9c259d9151045dfb"
+        },
+        "growthPackage": {
+    "header": {
+      "ant": "Hormiga cortadora de hojas",
+      "package": "Paquete de crecimiento",
+      "subTitle": "Paquete de crecimiento inicial",
+      "description": "SMM estándar",
+      "monthlyPrice": "875",
+      "yearlyPrice": "9450",
+      "buttonText": "Regístrate ahora",
+      "url": "/plans-pricing/leaf-cutter-ant.png",
+      "actualPrice": "875",
+      "actualYearlyPrice": "9450",
+      "discount": "20"
+    },
+    "data": [
+      {
+        "content": "Evaluación del rendimiento de la página/canal",
+        "img": "/plans-pricing/page-channel.svg",
+        "tooltipContent": "Análisis regular para evaluar y mejorar el rendimiento de su página o canal."
+      },
+      {
+        "content": "Configuración y gestión de la plataforma de redes sociales",
+        "img": "/plans-pricing/page-channel.svg",
+        "tooltipContent": "Configuración completa y gestión de rutina de sus perfiles de redes sociales."
+      },
+      {
+        "content": "4 publicaciones/semana en 4 plataformas (Instagram, Facebook, Twitter + 5 plataformas de su elección)",
+        "img": "/plans-pricing/2-high-quality.svg",
+        "tooltipContent": "Publicación constante (4 veces por semana) en hasta 8 plataformas para aumentar el alcance."
+      },
+      {
+        "content": "2 blogs SEO/mes (más de 1200 palabras con palabras clave especiales)",
+        "img": "/plans-pricing/seo-notes.svg",
+        "tooltipContent": "Blogs SEO de alta calidad escritos mensualmente para mejorar la visibilidad y el tráfico en los motores de búsqueda."
+      },
+      {
+        "content": "10 historias de Instagram/Facebook por mes",
+        "img": "/plans-pricing/upload.svg",
+        "tooltipContent": "Historias atractivas creadas para Instagram y Facebook para mantener la interacción con la audiencia."
+      },
+      {
+        "content": "Configuración y optimización de cuentas sociales",
+        "img": "/plans-pricing/setup-setting.svg",
+        "tooltipContent": "Creación de cuentas inicial y optimización estratégica para una máxima eficacia del perfil."
+      },
+      {
+        "content": "Aprobación y edición de publicaciones antes de su publicación",
+        "img": "/plans-pricing/approval-list.svg",
+        "tooltipContent": "Revise y edite las publicaciones con sus comentarios antes de que se publiquen."
+      },
+      {
+        "content": "Panel de control de análisis mensual para monitorear el rendimiento",
+        "img": "/plans-pricing/monthly-analytics.svg",
+        "tooltipContent": "Rastree el rendimiento a través de un panel de control claro que se actualiza mensualmente con métricas clave."
+      },
+      {
+        "content": "Uso de hashtags para aumentar la visibilidad y el compromiso",
+        "img": "/plans-pricing/hashtags.svg",
+        "tooltipContent": "Uso estratégico de hashtags para maximizar el descubrimiento y el compromiso del contenido."
+      },
+      {
+        "content": "Calendario de contenido para la planificación (Google Sheet)",
+        "img": "/plans-pricing/slack.svg",
+        "tooltipContent": "Calendario colaborativo en Google Sheets para planificar y programar el contenido de manera eficiente."
+      },
+      {
+        "content": "4 publicaciones complementarias para días especiales en un mes",
+        "img": "/plans-pricing/calendar.svg",
+        "tooltipContent": "Publicaciones adicionales para festivales u ocasiones de tendencia para mantenerse culturalmente relevante."
+      },
+      {
+        "content": "Soporte por correo electrónico y chat (48 horas - tiempo máximo de respuesta)",
+        "img": "/plans-pricing/slack.svg",
+        "tooltipContent": "Soporte confiable por correo electrónico o chat, respuesta garantizada en un plazo de 24 horas."
+      },
+      {
+        "content": "Publicación en la ficha de Google.",
+        "img": "/plans-pricing/chrome.svg",
+        "tooltipContent": "Mantenga su perfil de negocio de Google activo con actualizaciones regulares."
+      },
+      {
+        "content": "Investigación de palabras clave",
+        "img": "/plans-pricing/search.svg",
+        "tooltipContent": "Identifique palabras clave de alto rendimiento para mejorar la capacidad de descubrimiento del contenido."
+      },
+      {
+        "content": "Hasta 2 horas de compromiso en línea",
+        "img": "/plans-pricing/monitor-check.svg",
+        "tooltipContent": "Interactuaremos con su audiencia a través de comentarios, mensajes directos y estrategias de compromiso."
+      },
+      {
+        "content": "Configuración y gestión de campañas publicitarias de Meta",
+        "img": "/plans-pricing/megaphone.svg",
+        "tooltipContent": "Lance y gestione anuncios dirigidos en plataformas de Meta para aumentar su alcance y conversiones."
+      }
+    ],
+    "id": "685bc0ee9c259d9151045dfc"
+  },
+        "topTierPackage": {
+    "header": {
+      "ant": "Hormiga bala",
+      "package": "Paquete de nivel superior",
+      "subTitle": "Para nuevas empresas",
+      "description": "SMM avanzado",
+      "monthlyPrice": "1175",
+      "yearlyPrice": "12690",
+      "buttonText": "Registrarse ahora",
+      "url": "/plans-pricing/bullet-ant.png",
+      "actualPrice": "1050",
+      "actualYearlyPrice": "15228",
+      "discount": "20"
+    },
+    "data": [
+      {
+        "content": "Evaluación del rendimiento de la página/canal",
+        "img": "/plans-pricing/page-channel.svg",
+        "tooltipContent": "Auditoría de rendimiento detallada de sus perfiles de redes sociales para identificar oportunidades de crecimiento y optimizar la estrategia."
+      },
+      {
+        "content": "Configuración y gestión de la plataforma de redes sociales",
+        "img": "/plans-pricing/page-channel.svg",
+        "tooltipContent": "Configuración completa y gestión profesional de sus perfiles de redes sociales en las plataformas seleccionadas."
+      },
+      {
+        "content": "6 publicaciones/semana en 15 plataformas (Instagram, Facebook, Twitter, Linkedin, Youtube + 10 plataformas de su elección)",
+        "img": "/plans-pricing/2-high-quality.svg",
+        "tooltipContent": "Publicación constante en 15 plataformas, 6 veces por semana, incluyendo las principales redes y 10 plataformas de su elección."
+      },
+      {
+        "content": "4 blogs SEO/mes (más de 1200 palabras con palabras clave especiales)",
+        "img": "/plans-pricing/seo-notes.svg",
+        "tooltipContent": "Blogs SEO de alta calidad y ricos en palabras clave para impulsar el tráfico y mejorar el ranking de búsqueda."
+      },
+      {
+        "content": "15 historias de Instagram/Facebook por mes",
+        "img": "/plans-pricing/upload.svg",
+        "tooltipContent": "Historias creativas y oportunas publicadas en Instagram y Facebook para impulsar el compromiso en tiempo real."
+      },
+      {
+        "content": "Configuración y optimización de cuentas sociales",
+        "img": "/plans-pricing/setup-setting.svg",
+        "tooltipContent": "Configuración y optimización ajustadas de sus perfiles sociales para alinearse con la marca y los objetivos de SEO."
+      },
+      {
+        "content": "Aprobación y edición de publicaciones antes de su publicación",
+        "img": "/plans-pricing/approval-list.svg",
+        "tooltipContent": "El proceso de revisión y aprobación garantiza que su contenido esté siempre alineado con la voz de su marca."
+      },
+      {
+        "content": "Panel de control de análisis mensual para monitorear el rendimiento",
+        "img": "/plans-pricing/monthly-analytics.svg",
+        "tooltipContent": "Panel de control integral que rastrea KPI, métricas de compromiso y tendencias de crecimiento mensual."
+      },
+      {
+        "content": "Uso de hashtags para aumentar la visibilidad y el compromiso",
+        "img": "/plans-pricing/hashtags.svg",
+        "tooltipContent": "Uso estratégico de hashtags para mejorar el alcance del contenido, la capacidad de descubrimiento y el compromiso."
+      },
+      {
+        "content": "Calendario de contenido para la planificación (Google Sheet)",
+        "img": "/plans-pricing/slack.svg",
+        "tooltipContent": "Calendario organizado (a través de Google Sheet) para planificar de forma transparente su contenido mensual con anticipación."
+      },
+      {
+        "content": "6 publicaciones complementarias para días especiales en un mes",
+        "img": "/plans-pricing/calendar.svg",
+        "tooltipContent": "Publicaciones temáticas para ocasiones especiales (festivales, eventos, días de concientización) para conectar con su audiencia."
+      },
+      {
+        "content": "2 videos promocionales por mes",
+        "img": "/plans-pricing/video.svg",
+        "tooltipContent": "Videos promocionales atractivos creados mensualmente para comercializar su marca, productos u ofertas."
+      },
+      {
+        "content": "Soporte por correo electrónico y chat (tiempo de respuesta de 24 horas)",
+        "img": "/plans-pricing/slack.svg",
+        "tooltipContent": "Soporte confiable con respuesta garantizada dentro de las 24 horas a través de correo electrónico y chat."
+      },
+      {
+        "content": "Publicación en Google Listing",
+        "img": "/plans-pricing/thumbs-up.svg",
+        "tooltipContent": "Publicaciones optimizadas en su Perfil de Negocio de Google para mejorar la visibilidad local y la interacción con el cliente."
+      },
+      {
+        "content": "Investigación de palabras clave",
+        "img": "/plans-pricing/thumbs-up.svg",
+        "tooltipContent": "Análisis en profundidad de palabras clave para impulsar los esfuerzos de SEO y apuntar a las consultas de búsqueda correctas."
+      },
+      {
+        "content": "Hasta 2 horas de compromiso en línea",
+        "img": "/plans-pricing/thumbs-up.svg",
+        "tooltipContent": "Interacciones activas (me gusta, comentarios, respuestas) con su audiencia por hasta 2 horas al mes."
+      },
+      {
+        "content": "Configuración y gestión de Google Ads",
+        "img": "/plans-pricing/megaphone.svg",
+        "tooltipContent": "Nota: El gasto publicitario se pagará por separado a Google Ads."
+      },
+      {
+        "content": "Configuración y gestión de Meta Ads",
+        "img": "/plans-pricing/megaphone.svg",
+        "tooltipContent": "Nota: El gasto publicitario se pagará por separado a Meta."
+      },
+      {
+        "content": "2 videos promocionales listos para anuncios/mes (estilo profesional para anuncios de Google/Meta)",
+        "img": "/plans-pricing/video.svg",
+        "tooltipContent": "Videos promocionales pulidos optimizados para campañas de anuncios pagados en las plataformas de Meta y Google."
+      },
+      {
+        "content": "Configuración y gestión de campañas de correo electrónico",
+        "img": "/plans-pricing/slack.svg",
+        "tooltipContent": "Diseño, programación y seguimiento del rendimiento de las campañas de correo electrónico adaptadas a su audiencia."
+      },
+      {
+        "content": "Diseño de sitio web de cortesía incluido (los cargos de dominio y alojamiento se aplican por separado)",
+        "img": "/plans-pricing/component.svg",
+        "tooltipContent": "Diseño de sitio web profesional incluido como bonificación; los costos de dominio y alojamiento se facturan por separado."
+      }
+    ],
+    "id": "685bc1639c259d9151045dfd"
+  },
+        "customPackage": {
+    "header": {
+      "ant": "Hormiga artesana",
+      "package": "Paquete personalizado",
+      "description": "Desarrollo y diseño web",
+      "monthlyPrice": "na",
+      "yearlyPrice": "Hable con nosotros",
+      "buttonText": "Solicitar un presupuesto",
+      "url": "/plans-pricing/artisan-ant.png"
+    },
+    "data": [
+      {
+        "content": "Diseño de sitio web personalizado",
+        "img": "/plans-pricing/custom-web.svg",
+        "tooltipContent": "Identidad visual a medida que captura la esencia de su marca y convierte a los visitantes en clientes. Sin plantillas, sin atajos: solo excelencia creativa pura adaptada a la historia única de su negocio."
+      },
+      {
+        "content": "Soluciones web personalizadas por negocio",
+        "img": "/plans-pricing/tailored-web.svg",
+        "tooltipContent": "Funcionalidad y características específicas de la industria diseñadas para su mercado. Ya sea que esté en el comercio electrónico, la atención médica, los servicios profesionales o la hostelería, hablamos el idioma de su negocio."
+      },
+      {
+        "content": "Diseño responsivo",
+        "img": "/plans-pricing/responsive.svg",
+        "tooltipContent": "Experiencia impecable en todos los dispositivos: escritorio, tableta y móvil. Su sitio web se verá impresionante y funcionará perfectamente, sin importar cómo lo encuentren sus clientes."
+      },
+      {
+        "content": "Stack tecnológico moderno",
+        "img": "/plans-pricing/tailored-web.svg",
+        "tooltipContent": "Construido en plataformas de vanguardia: WordPress para sitios ricos en contenido, React para aplicaciones dinámicas o soluciones personalizadas. Elija su CMS preferido o permítanos recomendarle la opción perfecta para sus necesidades."
+      },
+      {
+        "content": "Desarrollo Full Stack",
+        "img": "/plans-pricing/search-engine.svg",
+        "tooltipContent": "Capacidades completas de desarrollo frontend y backend. Hermosas interfaces de usuario impulsadas por una arquitectura robusta del lado del servidor que escala con el crecimiento de su negocio."
+      },
+      {
+        "content": "Soluciones de bases de datos y en la nube",
+        "img": "/plans-pricing/social-media.svg",
+        "tooltipContent": "Gestión de datos segura y escalable con Supabase, MongoDB o PostgreSQL. Sincronización de datos en tiempo real, copias de seguridad automatizadas y arquitectura nativa de la nube para una máxima fiabilidad."
+      },
+      {
+        "content": "Integración de comercio electrónico",
+        "img": "/plans-pricing/analytics-monitor.svg",
+        "tooltipContent": "Soluciones completas de venta en línea con gestión de inventario, procesamiento de pagos, seguimiento de pedidos y cuentas de clientes. Desde catálogos de productos simples hasta complejos mercados B2B."
+      },
+      {
+        "content": "Panel de administración y análisis",
+        "img": "/plans-pricing/performance.svg",
+        "tooltipContent": "Potente sistema de gestión de backend para su equipo. Análisis en tiempo real, gestión de usuarios, control de contenido e inteligencia de negocios, todo en una interfaz intuitiva."
+      },
+      {
+        "content": "Paneles de control para clientes",
+        "img": "/plans-pricing/training.svg",
+        "tooltipContent": "Portales personalizados para sus clientes con áreas de inicio de sesión, gestión de cuentas, historial de pedidos, tickets de soporte y experiencias personalizadas que aumentan la retención."
+      },
+      {
+        "content": "Autenticación de usuarios y seguridad",
+        "img": "/plans-pricing/shield.svg",
+        "tooltipContent": "Roles de usuario de varios niveles, sistemas de inicio de sesión seguros, autenticación de dos factores y protocolos de seguridad listos para el cumplimiento. Sus datos y los datos de sus clientes se mantienen protegidos."
+      },
+      {
+        "content": "Desarrollo e integración de API",
+        "img": "/plans-pricing/chevrons-left-right-ellipsis.svg",
+        "tooltipContent": "API personalizadas para integraciones de terceros, aplicaciones móviles o conexión de múltiples sistemas. Flujo de datos fluido entre su sitio web y las herramientas de negocio existentes."
+      },
+      {
+        "content": "Automatización de correo electrónico y SMS",
+        "img": "/plans-pricing/mail.svg",
+        "tooltipContent": "Secuencias de marketing automatizadas, correos electrónicos transaccionales, recuperación de carritos abandonados y notificaciones por SMS. Convierta a los visitantes ocasionales en clientes leales."
+      },
+      {
+        "content": "Integración de pasarelas de pago",
+        "img": "/plans-pricing/badge-dollar-sign.svg",
+        "tooltipContent": "Procesamiento de pagos seguro con Stripe, PayPal, Square o soluciones personalizadas. Soporte para suscripciones, pagos únicos y transacciones internacionales."
+      },
+      {
+        "content": "Aplicación Web Progresiva (PWA)",
+        "img": "/plans-pricing/layout-grid.svg",
+        "tooltipContent": "Experiencia similar a una aplicación sin descargas de la tienda de aplicaciones. Notificaciones push, funcionalidad sin conexión e instalación en la pantalla de inicio para una máxima participación del usuario."
+      },
+      {
+        "content": "Creación y gestión de contenido",
+        "img": "/plans-pricing/monitor-check.svg",
+        "tooltipContent": "Textos y contenido visual convincentes que cuentan su historia. Sistemas de gestión de contenido avanzados con programación, control de versiones y colaboración multiusuario."
+    },
+    {
+      "content": "Optimización para motores de búsqueda (SEO)",
+      "img": "/plans-pricing/search.svg",
+      "tooltipContent": "Optimización estratégica para ayudar a que sus clientes ideales lo encuentren en Google. SEO técnico, investigación de palabras clave y optimización de contenido para un crecimiento orgánico sostenible."
+    },
+    {
+      "content": "Integración de redes sociales",
+      "img": "/plans-pricing/social-media.svg",
+      "tooltipContent": "Conexión perfecta entre su sitio web y las plataformas sociales. Feeds en vivo, comercio social, capacidades para compartir y opciones de inicio de sesión social."
+    },
+    {
+      "content": "Captura de leads y gestión de CRM",
+      "img": "/plans-pricing/user-check.svg",
+      "tooltipContent": "Formularios inteligentes que convierten a los visitantes en prospectos. Integración con HubSpot, Salesforce o soluciones de CRM personalizadas para una gestión de leads optimizada."
+    },
+    {
+      "content": "Análisis y monitoreo avanzados",
+      "img": "/plans-pricing/monitor-check.svg",
+      "tooltipContent": "Insights en tiempo real con Google Analytics 4, paneles personalizados, mapas de calor, análisis del recorrido del usuario y seguimiento de conversiones en todos los puntos de contacto."
+    },
+    {
+      "content": "Seguridad y rendimiento empresarial",
+      "img": "/plans-pricing/shield.svg",
+      "tooltipContent": "Certificados SSL, auditorías de seguridad periódicas, protección contra malware, integración de CDN y optimización del rendimiento para velocidades de carga increíblemente rápidas."
+    },
+    {
+      "content": "Alojamiento en la nube y Devops",
+      "img": "/plans-pricing/cloud.svg",
+      "tooltipContent": "Infraestructura de nube escalable con AWS, Azure o Google Cloud. Implementaciones automatizadas, entornos de ensayo y garantía de tiempo de actividad del 99.9%."
+    },
+    {
+      "content": "Copia de seguridad y recuperación ante desastres",
+      "img": "/plans-pricing/database-backup.svg",
+      "tooltipContent": "Copias de seguridad diarias automatizadas, control de versiones y planes de recuperación ante desastres. Su sitio web y sus datos están siempre protegidos y son recuperables."
+    },
+    {
+      "content": "Capacitación integral",
+      "img": "/plans-pricing/hand-helping.svg",
+      "tooltipContent": "Incorporación completa para su equipo: gestión de contenido, uso del panel de control, conceptos básicos de SEO y mejores prácticas. Se incluyen tutoriales en video y documentación."
+    },
+    {
+      "content": "Mantenimiento y soporte",
+      "img": "/plans-pricing/maintenance.svg",
+      "tooltipContent": "Soporte técnico continuo, actualizaciones de seguridad, monitoreo del rendimiento y mejoras de funciones. Tiempos de respuesta prioritarios y resolución proactiva de problemas."
+    },
+    {
+      "content": "Consulta de estrategia de crecimiento",
+      "img": "/plans-pricing/sprout.svg",
+      "tooltipContent": "Sesiones de estrategia mensuales para optimizar el rendimiento, planificar nuevas funciones y escalar su presencia digital. Somos sus socios de crecimiento a largo plazo."
+    }
+  ]
+      }},
+    "cartStatus": "Añadir al carrito | Eliminar del carrito"
+  },
+    "seoSection": {
+      "title": "Servicios de Optimización para Motores de Búsqueda",
+      "subtitle": "Nuestros expertos dedicados en SEO impulsarán su sitio web con SEO On-page y Off-page. Elija el paquete que mejor se adapte a usted.",
+      "buttonText": ["Mensual", "Anual"],
+      "discount20": "Obtenga un 20% de descuento en el total del carrito",
+      "discount10": "Obtenga un 10% de descuento en el total del carrito",
+      "additionalText": "Elija qué plan es para usted.",
+      "planTypes": {
+        "seedAnt": {
+          "header": {
+            "ant": "Hormiga Semilla",
+            "package": "Básico",
+            "subTitle": "Configuración esencial de palabras clave SEO",
+            "monthlyPrice": "950",
+            "yearlyPrice": "10260",
+            "buttonText": "Comprar ahora",
+            "url": "/plans-pricing/hammerAnt.png",
+            "desc": [
+              "SEO completo para 5 páginas.",
+              "Auditoría del sitio, mapeo de palabras clave, backlinks,",
+              "Optimización de contenido"
+            ]
+          },
+          "data": [
+            {
+              "content": "Auditoría SEO",
+              "img": "/plans-pricing/search-check.svg"
+            },
+            {
+              "content": "Análisis de la competencia",
+              "img": "/plans-pricing/users.svg"
+            },
+            {
+              "content": "Optimización On-page",
+              "img": "/plans-pricing/cog.svg"
+            },
+            {
+              "content": "SEO técnico",
+              "img": "/plans-pricing/terminal.svg"
+            },
+            {
+              "content": "Estrategia Off-page",
+              "img": "/plans-pricing/external-link.svg"
+            },
+            {
+              "content": "Estrategia de publicación de invitados",
+              "img": "/plans-pricing/file-pen-line.svg"
+            },
+            {
+              "content": "Palabras clave investigadas: 20",
+              "img": "/plans-pricing/file-search.svg"
+            }
+          ],
+          "id": "7f4c2a9e1d2b3c4567890abc"
+        },
+        "metaAnt": {
+          "header": {
+            "ant": "Hormiga Meta",
+            "package": "Premium",
+            "subTitle": "Estrategia SEO avanzada",
+            "monthlyPrice": "1500",
+            "yearlyPrice": "16200",
+            "buttonText": "Comprar ahora",
+            "url": "/plans-pricing/craftsman.png",
+            "desc": [
+              "SEO completo para más de 20 páginas.",
+              "Auditoría del sitio, mapeo de palabras clave, backlinks,",
+              "Optimización de contenido"
+            ]
+          },
+          "data": [
+            {
+              "content": "Auditoría SEO",
+              "img": "/plans-pricing/search-check.svg"
+            },
+            {
+              "content": "Análisis de la competencia",
+              "img": "/plans-pricing/users.svg"
+            },
+            {
+              "content": "Optimización On-page",
+              "img": "/plans-pricing/cog.svg"
+            },
+            {
+              "content": "SEO técnico",
+              "img": "/plans-pricing/terminal.svg"
+            },
+            {
+              "content": "Estrategia Off-page",
+              "img": "/plans-pricing/external-link.svg"
+            },
+            {
+              "content": "Estrategia de publicación de invitados",
+              "img": "/plans-pricing/file-pen-line.svg"
+            },
+            {
+              "content": "Palabras clave investigadas: 60",
+              "img": "/plans-pricing/file-search.svg"
+            },
+            {
+              "content": "Eliminación de enlaces defectuosos",
+              "img": "/plans-pricing/link-2-off.svg"
+            }
+          ],
+          "id": "9a1b2c3d4e5f60718293a4bd"
+        },
+        "optimizerAnt": {
+          "header": {
+            "ant": "Hormiga Optimizadora",
+            "package": "Estándar",
+            "subTitle": "Optimización on-page completa",
+            "monthlyPrice": "1200",
+            "yearlyPrice": "12960",
+            "buttonText": "Comprar ahora",
+            "url": "/plans-pricing/spannerAnt.png",
+            "desc": [
+              "SEO completo para 10 páginas.",
+              "Auditoría del sitio, mapeo de palabras clave, backlinks,",
+              "Optimización de contenido"
+            ]
+          },
+          "data": [
+            {
+              "content": "Auditoría SEO",
+              "img": "/plans-pricing/search-check.svg"
+            },
+            {
+              "content": "Análisis de la competencia",
+              "img": "/plans-pricing/users.svg"
+            },
+            {
+              "content": "Optimización On-page",
+              "img": "/plans-pricing/cog.svg"
+            },
+            {
+              "content": "SEO técnico",
+              "img": "/plans-pricing/terminal.svg"
+            },
+            {
+              "content": "Estrategia Off-page",
+              "img": "/plans-pricing/external-link.svg"
+            },
+            {
+              "content": "Estrategia de publicación de invitados",
+              "img": "/plans-pricing/file-pen-line.svg"
+            },
+            {
+              "content": "Palabras clave investigadas: 50",
+              "img": "/plans-pricing/file-search.svg"
+            }
+          ],
+          "id": "5d3e2f1c0a9b8c7d6e4f3210"
+        }
+      },
+      "cartStatus": "Añadir al carrito | Eliminar del carrito"
+    }
+  },
+  "AIWriterPage": {
+    "hero": {
+      "title": "La Siguiente | Generación | Herramienta de escritura con IA",
+      "description":"Libere su creatividad y productividad con AI.antsq.com. Nuestra plataforma aprovecha el poder de <span>GPT-3</span> y <span>DALL·E</span> para ofrecer servicios de auto-blogging optimizados para SEO con soporte de plugin de WordPress. Experimente una productividad perfecta y lleve su contenido al siguiente nivel con nosotros hoy.",
+      "buttonText": "Empezar"
+    },
+    "featuresSection": {
+      "features": [
+        {
+          "title": "Empoderar",
+          "description": "En Antsq.ai, la plataforma definitiva impulsada por GPT-3 y DALL-E, ofrecemos tecnología de IA de vanguardia para impulsar su productividad y creatividad."
+        },
+        {
+          "title": "Transformar",
+          "description": "En Antsq.ai, nuestra plataforma de escritura con IA utiliza GPT-3 y DALL-E para generar sin esfuerzo contenido excepcional y visuales impresionantes con una integración perfecta de plugins de WordPress."
+        },
+        {
+          "title": "Innovar",
+          "description": "Experimente el poder de la innovación con Antsq.ai, la plataforma innovadora impulsada por GPT-3 y DALL-E. Obtenga una creación de contenido excepcional y generación visual con nuestra compatibilidad con plugins de WordPress."
+        }
+      ]
+    },
+    "helpSection": {
+      "title": "Antsq.ai ayuda",
+      "animeText": "agencias de marketing | creadores de contenido | propietarios de negocios | emprendedores",
+      "description": "Una aplicación de escritura de vanguardia que revolucionará su juego de creación de contenido. Impulsada por la última tecnología GPT-3, nuestra aplicación ofrece una amplia gama de funciones para adaptarse a la esencia de la marca. Ya sea que sea un blogger, comercializador, estudiante o escritor profesional, nuestra aplicación está diseñada para ayudar en cada caso, haciéndola destacar de la atención de cualquier audiencia como nunca antes. Con una integración perfecta de plugins de WordPress, la convierte en una solución integral para todas sus necesidades de escritura. Desde la generación de publicaciones de blog y artículos hasta la creación de subtítulos atractivos para redes sociales, nuestra aplicación lo cubre todo. Diga adiós a las tareas de escritura mundanas y libere el verdadero potencial de su creatividad con nuestro asistente de escritura impulsado por IA.",
+      "buttonText": "Empezar"
+    },
+    "wizardsSection": {
+      "title": "Explore los Asistentes de AntsQ.AI",
+      "subtitle": "Descubra nuestras herramientas de escritura especializadas impulsadas por IA, diseñadas para optimizar su proceso de creación de contenido en diferentes industrias y casos de uso.",
+      "wizards": [
+        {
+          "title": "Asistente de Blog",
+          "description": "¡Cree publicaciones de blog atractivas como un profesional!"
+        },
+        {
+          "title": "Asistente de Correo Electrónico",
+          "description": "Elabore correos electrónicos convincentes sin esfuerzo con una optimización"
+        },
+        {
+          "title": "Asistente de Comercio Electrónico",
+          "description": "Impulse su negocio y aumente sus ingresos"
+        },
+        {
+          "title": "Asistente de Inicio",
+          "description": "Lance su negocio con confianza"
+        }
+      ]
+    },
+    "wizardDetails": [
+      {
+        "title": "Asistente de Blog",
+        "description": "Nuestro Asistente de Blog utiliza IA avanzada para generar optimización de motores de búsqueda e investigación, haciendo el mejor uso de palabras clave y estrategias de SEO para impulsar sus búsquedas en Google y Google Analytics y herramientas de marketing en redes sociales. No dejamos piedra sin remover. Nuestro equipo le ayudará a comprender los requisitos de sus clientes potenciales y le brindará la mejor experiencia de marca con nuestras sólidas estrategias de marketing de texto.",
+        "buttonText": "Empezar"
+      },
+      {
+        "title": "Asistente de Correo Electrónico",
+        "description": "¿Quiere tener una campaña próspera en su correo electrónico? Nuestros escritores expertos han analizado la mejor estrategia detrás de su éxito. Nuestro equipo se compromete a proporcionar servicios excepcionales de marketing por correo electrónico que aumentarán sus tasas de apertura, tasas de clics y conversiones con nuestras herramientas tipo asistente, automatizando campañas de correo electrónico. Ya sea un boletín, correos electrónicos promocionales o adquisición de clientes, nuestros profesionales calificados están listos para ayudarle. Con nuestras innovadoras estrategias de marketing por correo electrónico e integración con sus suscriptores, su mensaje llega rápidamente y aumenta la lealtad del cliente. Deje que nuestra experiencia le ayude a maximizar el potencial de su campaña de correo electrónico y a redactar textos que cautiven a su audiencia.",
+        "buttonText": "Empezar"
+      },
+      {
+        "title": "Asistente de Comercio Electrónico",
+        "description": "¡Desde descripciones de productos persuasivas hasta páginas cautivadoras en páginas de destino para sus sitios web de comercio electrónico! Nuestro Asistente de Comercio Electrónico está diseñado para ayudarle a crear contenido convincente que agilizará el proceso de creación de textos excepcionales. Aumente las ventas y la participación del cliente fácilmente. Estamos con nuestras descripciones de productos y textos de páginas de destino elaborados por expertos que le ayudarán en su marketing. Con nuestro asistente, puede crear sin esfuerzo títulos de productos, descripciones atractivas y nuestro texto persuasivo experto que impulsará a sus clientes a tomar una decisión de compra.",
+        "buttonText": "Empezar"
+      },
+      {
+        "title": "Asistente de Inicio",
+        "description": "¿Necesita una presentación, un plan de negocios o una presentación para inversores para su startup? Nuestros escritores profesionales han diseñado el Asistente de Escritura para Startups para simplificarlo todo. Nuestro equipo de escritores calificados comprende los desafíos y oportunidades únicos que enfrentan las startups. ¡No ponga en peligro el progreso de su negocio! Desafíe a su equipo con nuestra amplia gama de servicios. Acceda a planes de negocios y presentaciones para inversores, nuestra herramienta de asistente para startups impulsará su negocio y el texto que optimiza a su audiencia.",
+        "buttonText": "Empezar"
+      }
+    ],
+    "pricingSection": {
+      "title":"Paquetes de escritura con IA",
+      "buttonText":"Próximamente",
+      "plans": [
+        {
+          "package": "Plan Gratuito",
+          "url": "/ai-writer/pad.webp",
+          "price": "0",
+          "data": [
+            {
+              "content": "100 créditos gratuitos de por vida",
+              "img": "/ai-writer/circle-dollar-sign.svg"
+            },
+            {
+              "content": "Asistentes de IA",
+              "img": "/ai-writer/wand-sparkles.svg"
+            },
+            {
+              "content": "Prompts de IA",
+              "img": "/ai-writer/text.svg"
+            },
+            {
+              "content": "Optimizado para SEO",
+              "img": "/ai-writer/search-check.svg"
+            },
+            {
+              "content": "Escrito como un humano",
+              "img": "/ai-writer/pen-line.svg"
+            }
+          ]
+        },
+        {
+          "package": "Plan Básico",
+          "url": "/ai-writer/hammer.webp",
+          "price": "36",
+          "data": [
+            {
+              "content": "12,500 créditos por mes",
+              "img": "/ai-writer/circle-dollar-sign.svg"
+            },
+            {
+              "content": "Asistentes de IA",
+              "img": "/ai-writer/wand-sparkles.svg"
+            },
+            {
+              "content": "Prompts de IA",
+              "img": "/ai-writer/text.svg"
+            },
+            {
+              "content": "Optimizado para SEO",
+              "img": "/ai-writer/search-check.svg"
+            },
+            {
+              "content": "Escrito como un humano",
+              "img": "/ai-writer/pen-line.svg"
+            },
+            {
+              "content": "10 millones de palabras o 1250 imágenes",
+              "img": "/ai-writer/image.svg"
+            },
+            {
+              "content": "Prompts + plantillas de IA",
+              "img": "/ai-writer/bot.svg"
+            }
+          ]
+        },
+        {
+          "package": "Plan Premium",
+          "url": "/ai-writer/chemical.webp",
+          "price": "47",
+          "data": [
+            {
+              "content": "17,000 créditos por mes",
+              "img": "/ai-writer/circle-dollar-sign.svg"
+            },
+            {
+              "content": "Asistentes de IA",
+              "img": "/ai-writer/wand-sparkles.svg"
+            },
+            {
+              "content": "Prompts de IA",
+              "img": "/ai-writer/text.svg"
+            },
+            {
+              "content": "Optimizado para SEO",
+              "img": "/ai-writer/search-check.svg"
+            },
+            {
+              "content": "Escrito como un humano",
+              "img": "/ai-writer/pen-line.svg"
+            },
+            {
+              "content": "14 millones de palabras o 1700 imágenes",
+              "img": "/ai-writer/image.svg"
+            },
+            {
+              "content": "Prompts + plantillas de IA",
+              "img": "/ai-writer/bot.svg"
+            }
+          ]
+        }
+      ]
+    },
+    "faqSection": {
+      "title": "Preguntas Frecuentes",
+      "subtitle": "Preguntas Frecuentes",
+      "questions":[
+        {
+          "question": "¿Cómo puedo usar AI.antsq.com para generar contenido?",
+          "answer": "Puede usar AI.antsq.com accediendo a la aplicación de escritura en su sitio web y utilizando sus funciones, que van más allá de la simple generación de texto, para crear contenido escrito de alta calidad con imágenes impresionantes y capacidades de optimización SEO."
+        },
+        {
+          "question": "¿Puede AI.antsq.com ayudarme a optimizar mi contenido para SEO?",
+          "answer": "Sí, AI.antsq.com puede ayudarle a optimizar su contenido para SEO generando contenido escrito de alta calidad que sea relevante y atractivo para su público objetivo, lo que puede mejorar su clasificación en los motores de búsqueda."
+        },
+        {
+          "question": "¿Cuáles son las características específicas de AI.antsq.com que van más allá de la simple generación de texto?",
+          "answer": "AI.antsq.com ofrece características que van más allá de la simple generación de texto, incluida la capacidad de generar imágenes, optimizar el contenido para SEO e integrarse sin problemas con los plugins de WordPress. Es una herramienta completa diseñada para mejorar la creatividad, la productividad y la calidad del contenido para bloggers, creadores de contenido y especialistas en marketing digital."
+        },
+        {
+          "question": "¿AI.antsq.com está impulsado por inteligencia artificial?",
+          "answer": "Sí, AI.antsq.com está impulsado por tecnologías avanzadas como GPT-3 y DALL·E, que son modelos de inteligencia artificial diseñados para la generación de texto y la generación de imágenes, respectivamente."
+        },
+        {
+          "question": "¿Puede AI.antsq.com reemplazar a los creadores de contenido humanos?",
+          "answer": "AI.antsq.com está diseñado para aumentar la creatividad y la productividad humanas, pero no está destinado a reemplazar a los creadores de contenido humanos. Es una herramienta que puede ayudar en la creación de contenido, pero la creatividad y la experiencia humanas siguen siendo esenciales para producir contenido de alta calidad."
+        }
+      ]
+    }
+  },
+  "AboutPage": {
+    "hero": {
+      "subtitle": "Acerca de",
+      "title": "Ants|Q|Colonie",
+      "description": "AntsQ, con años de experiencia en gestión de redes sociales, estrategia digital, servicios y planificación, es reconocida por ofrecer resultados sobresalientes que elevan a las pequeñas empresas a nuevas alturas. Nuestro equipo de expertos, al igual que una diligente colonia de hormigas, es hábil y apasionado por trabajar juntos para hacer crecer su negocio de forma orgánica a través de estrategias específicas y una planificación meticulosa. Nos enorgullece colaborar con marcas de pequeñas empresas y nos encanta la oportunidad de competir contra competidores gigantes. Al igual que las hormigas, podemos ser diminutos pero poseemos una fuerza sobrehumana.",
+      "buttonText": "Empezar"
+    },
+    "marketingSection": {
+      "description": "Explorar el mundo del marketing empresarial puede desbloquear un crecimiento exponencial para su negocio. Así como las hormigas prosperan a través de la cooperación y la adaptabilidad, AntsQ aprovecha su experiencia colectiva para analizar y desarrollar estrategias y planes clave que fomentan el conocimiento de la marca y la participación orgánica del cliente. Nuestros años de experiencia nos han dotado para ofrecer una amplia gama de servicios, que incluyen marketing en redes sociales, marketing en motores de búsqueda, marketing por correo electrónico, desarrollo de sitios web, SEO y diseño gráfico. En AntsQ, creemos en trabajar juntos como una colonia bien coordinada, maximizando el potencial de su negocio para generar altas conversiones y retornos de inversión impresionantes."
+    },
+    "unitySection": {
+      "title": "¡Unamos fuerzas como una colonia unida y logremos hitos notables juntos!"
+    },
+    "contactSection": {
+      "description": "Si tiene alguna consulta, inquietud o desea una consulta gratuita, no dude en comunicarse con el equipo de AntsQ. Estamos aquí para ayudarlo y guiarlo en su viaje de negocios, así como las hormigas trabajan juntas para apoyar a su comunidad.",
+      "buttonText": "Contáctenos"
+    }
+  },
+  "ContactPage": {
+    "hero": {
+      "title": "Contáctenos",
+      "description": "¡Nos encantaría saber de usted — Crecemos juntos!",
+      "features": [
+        "Obtenga una propuesta personalizada adaptada a su negocio.",
+        "Reciba orientación experta sobre estrategias digitales.",
+        "Programe una llamada de descubrimiento gratuita con nuestro equipo."
+      ],
+      "buttonText": "Empezar ahora"
+    },
+    "contactForm": {
+      "fields": {
+        "firstName": {
+          "label": "Nombre:",
+          "placeholder": ""
+        },
+        "lastName": {
+          "label": "Apellido:",
+          "placeholder": ""
+        },
+        "email": {
+          "label": "Correo electrónico:",
+          "placeholder": ""
+        },
+        "phoneNumber": {
+          "label": "Número de teléfono:",
+          "placeholder": "+919988439448"
+        },
+        "message": {
+          "label": "Mensaje:",
+          "placeholder": "Quiero saber sobre sus servicios web personalizados."
+        }
+      },
+      "serviceOptions": {
+        "title": "Elija Servicio",
+        "options": [
+          "Gestión de redes sociales y negocios",
+          "Optimización de motores de búsqueda",
+          "Gestión de la reputación de la marca",
+          "Marketing por correo electrónico",
+          "Diseño gráfico",
+          "Desarrollo web",
+          "Otro"
+        ]
+      },
+      "submitButton": "Enviar mensaje | Enviando mensaje"
+    },
+    "contactInfo": {
+      "title": "CONTÁCTENOS",
+      "illustration": "personaje_hormiga_con_iconos"
+    },
+    "socialSection": {
+      "title": "Somos Sociales",
+      "platforms": ["facebook", "twitter", "linkedin", "instagram"]
+    },
+    "newsletter": {
+      "title": "Suscribirse",
+      "description": "¡No se lo pierda! Suscríbase a nuestra lista de correo electrónico para mantenerse informado",
+      "placeholder": "Correo electrónico",
+      "buttonText": "Enviar"
+    },
+    "success":{
+          "title": "¡Formulario enviado con éxito!",
+          "description": "Gracias por compartir sus detalles con nosotros. Hemos recibido su información y nuestro equipo se pondrá en contacto con usted pronto.",
+          "subtitle": "Volver a inicio"
+}
+  },
+    "navbar": {
+      "home": "Inicio",
+      "services": {
+        "title":"Servicios",
+        "content":{
+        "0":"Gestión de Redes Sociales Empresariales",
+        "1":"Optimización y Marketing para Motores de Búsqueda",
+        "2":"Gestión de la Reputación de Marca",
+        "3":"Marketing Digital",
+        "4":"Marketing por Correo Electrónico",
+        "5":"Diseño Gráfico",
+        "6":"Desarrollo Web"
+        }
+      },
+      "plansPricing": "Planes y Precios",
+      "aiWriter": "Escritor con IA",
+      "about": {
+        "title":"acerca de",
+        "content":{
+        "0":"AntsQ Colonia",
+        "1":"Blog",
+        "2":"Contáctenos"
+        }
+      },
+      "talkToUs":"Habla con nosotros",
+      "loginButton": "Iniciar Sesión / Registrarse",
+      "profile": {
+        "0":"Suscripciones",
+        "1":"Cerrar Sesión"
+      },
+      "dialog": {
+    "title": "¿Estás seguro de que quieres cerrar sesión?",
+    "cancel": "Cancelar",
+    "logout": "Cerrar sesión"
+  },
+  "signin": "Iniciar sesión"
+    },
+      "footer": {
+        "description": "Somos un equipo de expertos, capacitado y apasionado por nuestro trabajo en hacer crecer tu negocio de forma orgánica con estrategias y planificación clave.",
+        "company": {
+          "title": "Compañía",
+          "content": {
+            "0": "Inicio",
+            "1": "Planes y Precios",
+            "2": "Acerca de",
+            "3": "Blog",
+            "4": "Escritor IA",
+            "5": "Contacto",
+            "6": "RSS"
+          }
+        },
+        "services": {
+          "title": "Servicios",
+          "content": {
+            "0": "Gestión de redes sociales empresariales",
+            "1": "Optimización y marketing para motores de búsqueda",
+            "2": "Gestión de reputación de marca",
+            "3": "Email marketing",
+            "4": "Diseño gráfico",
+            "5": "Desarrollo web"
+          }
+        },
+        "socialMedia": {
+          "title": "Redes Sociales",
+          "subscribe": "Suscribirse",
+          "description": "¡No te lo pierdas! Suscríbete a nuestra lista de correo para estar al tanto",
+          "buttonText": "Envíanos"
+        }
+      },
+      "signupPage":{
+        "title": "Regístrate ahora",
+        "subtitle": "¿Ya tienes una cuenta?",
+        "signInLink": "Iniciar sesión",
+        "form": {
+          "fields": [
+            {
+              "label": "Nombre",
+              "placeholder": "Nombre"
+            },
+            {
+              "label": "Correo electrónico",
+              "placeholder": "Correo electrónico"
+            },
+            {
+              "label": "Contraseña",
+              "placeholder": "Contraseña"
+            }
+          ],
+          "submitButton": "Registrarse | Registrándose"
+        }
+      },
+      "signinPage":{
+        "title": "Iniciar sesión",
+        "subtitle": "¡Bienvenido de nuevo! Por favor, inicia sesión.",
+        "form": {
+          "fields": [
+            {
+              "label": "Correo electrónico",
+              "placeholder": "Correo electrónico"
+            },
+            {
+              "label": "Contraseña",
+              "placeholder": "Contraseña"
+            }
+          ],
+          "submitButton": "Iniciar sesión | Iniciando sesión"
+        },
+        "noAccountText": "¿No tienes una cuenta?",
+        "signUpLink": "Regístrate"
+      },
+      "webForm": {
+    "pageContent": {
+      "submissionStatus": {
+        "alreadySubmitted": {
+          "title": "Ya ha enviado el formulario.",
+          "subtitle": "Nuestro equipo está revisando su solicitud, le responderemos muy pronto."
+        },
+        "serverError": {
+          "message": "Hubo un problema con el servidor, por favor, inténtelo de nuevo más tarde."
+        }
+      },
+      "formContent": {
+        "headerSection": {
+          "title": "Díganos qué desea.",
+          "subtitle": "Rellene el formulario de resumen del proyecto a continuación y obtenga una propuesta personalizada en ",
+          "highlightedTime": "24 horas",
+          "subtitleEnd": "Sin obligaciones, solo información estratégica adaptada a sus objetivos comerciales."
+        },
+        "websiteType": {
+          "label": "Tipo de sitio web",
+          "placeholder": "Ej: Comercio electrónico, Agencia..",
+          "errorMessage": "El tipo de sitio web es obligatorio"
+        },
+        "reference": {
+          "label": "Referencia / Competidor",
+          "placeholder": "Ej: WeMakeDevs.org, Myntra.com.."
+        },
+        "personalInformation": {
+          "title": "¡Conozcámosle mejor!",
+          "firstName": {
+            "label": "Nombre",
+            "placeholder": "Nombre",
+            "errorMessage": "El nombre es obligatorio"
+          },
+          "lastName": {
+             "label": "Apellido",
+            "placeholder": "Apellido",
+            "errorMessage": "El apellido es obligatorio"
+          },
+          "phoneNumber": {
+            "label": "Número de teléfono",
+            "placeholder": "(000) 000-0000",
+            "errorMessage": "El número de teléfono es obligatorio"
+          },
+          "email": {
+            "label": "Correo electrónico",
+            "placeholder": "ejemplo@ejemplo.com",
+            "errorMessage": "El correo electrónico es obligatorio"
+          }
+        },
+        "brandInformation": {
+          "title": "¡Dénos una idea de su marca!",
+          "brandName": {
+            "label": "Nombre de la marca",
+            "errorMessage": "El nombre de la marca es obligatorio"
+          },
+          "brandAge": {
+            "label": "Antigüedad de la marca",
+            "errorMessage": "La antigüedad de la marca es obligatoria"
+          },
+          "brandDescription": {
+            "label": "Descripción de la marca",
+            "errorMessage": "La descripción de la marca es obligatoria"
+          }
+        },
+        "domainInformation": {
+          "question": "1. ¿Tiene un dominio?",
+          "options": {
+            "yes": "Sí",
+            "no": "No"
+          },
+          "domainName": {
+            "label": "Si es así, nombre de dominio",
+            "errorMessage": "El nombre de dominio es obligatorio si tiene uno"
+          },
+          "websitesUnderDomain": {
+            "label": "Sitios web bajo el dominio",
+            "errorMessage": "Los sitios web bajo el dominio son obligatorios si tiene uno"
+          }
+        },
+        "hostingService": {
+          "question": "2. ¿Tiene un servicio de alojamiento?",
+          "options": {
+            "yes": "Sí",
+            "no": "No"
+          }
+        },
+        "logoNeeds": {
+          "question": "3. ¿Necesita un logotipo para representar su marca?",
+          "options": {
+            "yes": "Sí",
+            "no": "No"
+          }
+        },
+        "categoryPages": {
+          "label": "4. Por favor, indique el número de páginas de categoría que debe tener su sitio web.",
+          "placeholder": "ej: 10",
+          "errorMessage": "Las páginas de categoría son obligatorias"
+        },
+        "contentNeeds": {
+          "question": "5. ¿Necesita contenido para su sitio web?",
+          "options": {
+            "yes": "Sí",
+            "no": "No"
+          }
+        },
+        "imageProvision": {
+          "question": "6. ¿Proporcionará imágenes y descripciones de productos para su sitio web?",
+          "options": {
+            "yes": "Sí",
+            "no": "No"
+          }
+        },
+        "additionalRequirements": {
+          "label": "7. Si tiene algún requisito adicional para el sitio web (esquema de colores, animaciones, etc.), por favor, háganoslo saber a continuación.",
+          "placeholder": "Ej: Quiero que mi aplicación use solo dependencias nativas..",
+          "errorMessage": "Los requisitos adicionales son obligatorios"
+        },
+        "budget": {
+          "label": "8. Por favor, mencione su presupuesto.",
+          "placeholder": "Ej: $1000",
+          "errorMessage": "El presupuesto es obligatorio"
+        },
+        "thankYouMessage": {
+          "title": "Gracias por compartir sus preferencias.",
+          "description": "Nuestro equipo se pondrá en contacto con usted en breve..",
+          "apiError": "Error al cargar películas"
+        },
+        "submitButton": {
+          "default": "Enviar",
+          "submitting": "Enviando..."
+        }
+      },
+      "sidebarContent": {
+        "title": "¿Listo para elevar su presencia digital?",
+        "subtitle": "Cada gran viaje digital comienza con un solo clic.",
+        "description": "Su sitio web debe ser más que un simple folleto en línea; debe ser un ecosistema digital completo que impulse el crecimiento de su negocio, optimice las operaciones y deleite a los clientes."
+      }
+    }
+  },
+  "webformSuccess":{
+    "title": "¡Formulario enviado con éxito!",
+    "description": "Gracias por compartir sus requisitos con nosotros. Hemos recibido su información y nuestro equipo se pondrá en contacto con usted pronto.",
+    "buttonText": "Volver a inicio"
+  }
+}
