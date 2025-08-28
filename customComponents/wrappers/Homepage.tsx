@@ -35,9 +35,9 @@ export default function HomePage() {
   const midSectionCards = [0, 1, 2].map((i) => ({
     title: midSection(`cards.${i}.title`),
     description: midSection(`cards.${i}.description`),
-    buttonText: midSection(`cards.${i}.buttonText`),
+    // buttonText: midSection(`cards.${i}.buttonText`),
   }));
-  const lastSectionCards = [0, 1, 2,3,4,5,6].map((i) => ({
+  const lastSectionCards = [0, 1, 2,3,4,5].map((i) => ({
     title: lastSection(`flexItems.${i}.title`),
     description: lastSection(`flexItems.${i}.description`),
     buttonText: lastSection(`flexItems.${i}.buttonText`),
